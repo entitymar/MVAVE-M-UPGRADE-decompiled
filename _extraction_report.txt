@@ -1,0 +1,32 @@
+site RVA 0x5dfe: version=3 tree=0x839e0 names=0x835e0 data=0x30bd0
+
+0x00079d62  Resources/Icons/AppIcon.png	raw=27557	final=27557	flags=0x0000
+0x00076886  Resources/Icons/arrow-down-white.svg	raw=477	final=477	flags=0x0000
+0x0008090b  Resources/Icons/arrow-down.svg	raw=477	final=477	flags=0x0000
+0x00076a67  Resources/Icons/arrow-up-white.svg	raw=478	final=478	flags=0x0000
+0x00078401  Resources/Icons/arrow-up.svg	raw=478	final=478	flags=0x0000
+0x000760ab  Resources/Icons/caret-left.png	raw=458	final=458	flags=0x0000
+0x00082d74  Resources/Icons/caret-right.png	raw=240	final=240	flags=0x0000
+0x000821e5  Resources/Icons/check.svg	raw=695	final=695	flags=0x0000
+0x00080e05  Resources/Icons/circle.png	raw=666	final=666	flags=0x0000
+0x00078748  Resources/Icons/cross-white.svg	raw=619	final=619	flags=0x0000
+0x000828a8  Resources/Icons/cross.svg	raw=619	final=619	flags=0x0000
+0x000810a3  Resources/Icons/error.png	raw=4414	final=4414	flags=0x0000
+0x00078b1b  Resources/Icons/hint.png	raw=4675	final=4675	flags=0x0000
+0x00076371  Resources/Icons/mic.png	raw=1297	final=1297	flags=0x0000
+0x00080aec  Resources/Icons/progress-pattern.svg	raw=789	final=789	flags=0x0000
+0x00076279  Resources/Icons/radio.svg	raw=244	final=244	flags=0x0000
+0x000827be  Resources/Icons/sort-down.png	raw=230	final=230	flags=0x0000
+0x00076c49  Resources/Icons/success.png	raw=6068	final=6068	flags=0x0000
+0x000824a0  Resources/Icons/triangle-down-white.svg	raw=352	final=352	flags=0x0000
+0x000789b7  Resources/Icons/triangle-down.svg	raw=352	final=352	flags=0x0000
+0x00082c0f  Resources/Icons/triangle-right-white.svg	raw=353	final=353	flags=0x0000
+0x000785e3  Resources/Icons/triangle-right.svg	raw=353	final=353	flags=0x0000
+0x00082604  Resources/Icons/uncheck.svg	raw=438	final=438	flags=0x0000
+0x00082b17  Resources/Icons/unradio.svg	raw=244	final=244	flags=0x0000
+0x00061b04  Resources/Pic/OTA.gif	raw=27813	final=27813	flags=0x0000
+0x00057c2f  Resources/Pic/SmcMixer.png	raw=40657	final=40657	flags=0x0000
+0x00030bd0  Resources/Pic/Smk25.png	raw=159835	final=159835	flags=0x0000
+0x000687ad  Resources/Pic/Smk25II.png	raw=31056	final=31056	flags=0x0000
+0x00070101  Resources/Pic/Smk25Mini.png	raw=24486	final=24486	flags=0x0000
+0x00082e68  Resources/Qss/main.qss	raw=1903	final=9268	flags=0x0001

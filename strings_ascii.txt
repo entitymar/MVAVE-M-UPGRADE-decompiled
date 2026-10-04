@@ -1,0 +1,2694 @@
+0000004d !This program cannot be run in DOS mode.
+00000247 `.rdata
+0000026f @.data
+00000298 .pdata
+000002bf @.rsrc
+000002e7 @.reloc
+0000040f UATAUAVAWH
+00000777 H9=jn	
+00000903 A_A^A]A\]
+0000092f UATAUAVAWH
+00000c97 H9=Zi	
+00000e23 A_A^A]A\]
+00000e4f UATAUAVAWH
+000011b7 H9=Jd	
+00001343 A_A^A]A\]
+0000145f UATAUAVAWH
+00001953 A_A^A]A\]
+0000197f UATAUAVAWH
+00001e73 A_A^A]A\]
+00001e9f UATAUAVAWH
+00002393 A_A^A]A\]
+000023bf UATAUAVAWH
+000028b3 A_A^A]A\]
+000028df UATAUAVAWH
+00002dd3 A_A^A]A\]
+00002dff UATAUAVAWH
+00003167 H9=zH	
+000032f3 A_A^A]A\]
+0000331f UATAUAVAWH
+00003687 H9=rC	
+00003813 A_A^A]A\]
+0000383f UATAUAVAWH
+00003ba7 H9=b>	
+00003d33 A_A^A]A\]
+00003d5f UATAUAVAWH
+000040c7 H9=R9	
+00004253 A_A^A]A\]
+0000427f UATAUAVAWH
+000045e7 H9=B4	
+00004773 A_A^A]A\]
+0000479f UATAUAVAWH
+00004b07 H9=2/	
+00004c93 A_A^A]A\]
+00004cbf UATAUAVAWH
+00005027 H9=**	
+000051b3 A_A^A]A\]
+0000522f UATAUAVAWH
+00005723 A_A^A]A\]
+000057b7 l$ AVH
+000059f3 $D9@ }
+00005d6f WAVAWH
+00005e75 0A_A^_
+000069c2 L$ SUVWATAVAWH
+00006ae3  A_A^A\_^][
+0000745a VWATAVAWH
+0000768c 0A_A^A\_^
+000076af WATAUAVAWH
+000078f9 0A_A^A]A\_
+00007a7c |$ AVH
+00007b3f WATAUAVAWH
+00007d93 0A_A^A]A\_
+00007ef5 UVWATAUAVAWH
+000082ca A_A^A]A\_^]
+00008317 l$ VWATAVAWH
+000084e5 A_A^A\_^
+000085b0 @USVWATAUAVAWH
+00008893 A_A^A]A\_^[]
+000088e2 \$ UVWATAUAVAWH
+00008ba7 A_A^A]A\_^]
+00008dff WAVAWH
+00008e6d H9o8tb
+00008f7a  A_A^_
+00009834 L9w8thH
+00009a32 \$ UVWAVAWH
+00009bb6 A_A^_^]
+00009cb2 \$ UVWAVAWH
+00009d58 D$PHcH
+00009d6d D$PHcH
+00009e51 D$PHcH
+00009e5f L$PHcQ
+0000a01b A_A^_^]
+0000a032 \$ UVWAVAWH
+0000a0d8 D$PHcH
+0000a0ed D$PHcH
+0000a1d1 D$PHcH
+0000a1df L$PHcQ
+0000a39b A_A^_^]
+0000a5a2 L$ SAVH
+0000a760 H+D$ H
+0000a8ae H+D$8H
+0000a920 L$ D;k
+0000abe2 \$ UVWATAUAVAWH
+0000ac1c l$0D8i
+0000acc6 D$@HcH
+0000acdb D$@HcH
+0000adc2 D$@HcH
+0000add0 D$@HcH
+0000afb8 A_A^A]A\_^]
+0000afd2 \$ UVWAVAWH
+0000b008 t$0D8q
+0000b0c9 D$@HcH
+0000b0de D$@HcH
+0000b1c5 D$@HcH
+0000b1d3 D$@HcH
+0000b280 A_A^_^]
+0000b292 \$ UVWH
+0000b695 UVWATAWH
+0000b82e  A_A\_^]
+0000b840 @SVWAVH
+0000b981 (A^_^[
+0000bee5 UVWATAUAVAWH
+0000c676 A_A^A]A\_^]
+0000c6d5 UVWAVAWH
+0000d268 A_A^_^]
+0000d27c t$ WAVAWH
+0000d542  A_A^_
+0000d645 UVWATAUAVAWH
+0000da22 A_A^A]A\_^]
+0000dafa UWATAVAWH
+0000dcb8 A_A^A\_]
+0000dcdf UATAUAVAWH
+0000e196 A_A^A]A\]
+0000e267 t$ UWAVH
+0000e761 d$ UAVAWH
+0000ea7c |$ UAVAWH
+0000ec48 uM8\$LuGL
+0000f0ea UWATAVAWH
+0000f236 A_A^A\_]
+0000f3c4 USVWATAUAVAWH
+0000f600 A_A^A]A\_^[]
+0000fa0f UAVAWH
+0000fee4 UVWATAUAVAWH
+000101e2 A_A^A]A\_^]
+0001131f UAVAWH
+000114e8 9D$0uF
+00011b4a UWATAVAWH
+00012af6 A_A^A\_]
+00012c25 UVWATAUAVAWH
+00012c42 gfffffffH
+00012fa4 PA_A^A]A\_^]
+000132aa SUVWATAVAWH
+000134d6 `A_A^A\_^][
+00013797 t$ UWAVH
+000149ba gfffffffL
+000160e0 @USVWATAVAWH
+000165a5 pA_A^A\_^[]
+00016835 UVWAVAWH
+00016b2f A_A^_^]
+00017785 UVWATAUAVAWH
+00018835 A_A^A]A\_^]
+00018861 |$ ATAVAWH
+00018a66 @A_A^A\
+00018a7a WATAUAVAWH
+00019344 A_A^A]A\_
+00019742 tLH9{8tFH
+000197b5 UVWATAUAVAWH
+0001a181 A_A^A]A\_^]
+0001a197 l$ VWATAVAWH
+0001a3a9 A_A^A\_^
+0001a5e0 @USVWATAUAVAWH
+0001abb2 xA_A^A]A\_^[]
+0001abc0 @USVWATAUAVAWH
+0001be42 A_A^A]A\_^[]
+0001bf0d gfffffffH
+0001c017 t$ UWAUAVAWH
+0001c354 A_A^A]_]H
+0001c87f SVWATAUAVAWH
+0001cb3b A_A^A]A\_^[
+0001d12a UVWATAUAVAWH
+0001d2e9 PA_A^A]A\_^]
+0001d3f1 |$ AVH
+0001daca UVWAVAWH
+0001dbaa 0A_A^_^]
+0001dc2c t$ WAVAWH
+0001de00 @SUVWH
+0001e020 @SVWATAUAVAWH
+0001e91f A_A^A]A\_^[
+0001e982 \$ VAVAWH
+0001e9c4 0A_A^^
+0001eacb 0A_A^^
+0001ebe0 @USVWATAUAVAWH
+0001f518 A_A^A]A\_^[]
+0001f980 @SUVAVH
+0001f9bc |$`t	H
+0001f9ee |$`A96
+0001fa81 hA^^][
+0001fb00 @SUVWAVH
+0001fbd7 `A^_^][
+0001fbe0 @SUAVH
+0001fd9c |$ AVH
+0001fe55 UVWAVAWH
+000202ad A_A^_^]
+000205cc L$ SVWH
+000211e0 @USVWAVH
+0002134e pA^_^[]
+00021e70 @SWAVH
+00021ec6 )t$@H;
+00022087 SVWAVH
+000220dc 8A^_^[
+000220ee WAVAWH
+00022137 @A_A^_
+0002266b WAVAWH
+000226c1 0A_A^_
+00022de9 u0HcH<
+00027440 #ff0000
+00027448 Note OFF
+00027458 #00ff00
+00027460 Note ON
+00027468 #0f0fff
+00027470 Poly Aftertouch
+00027480 #ff00f0
+00027488 Control/Mode Change
+000274a0 #00ffff
+000274a8 Program Change
+000274b8 #ff00ff
+000274c0 Channel Aftertouch
+000274d8 #ffff00
+000274e0 Pitch Bend
+000274f0 map/set too long
+00027520 Unknown exception
+00027568 bad array new length
+00027580 string too long
+00027598     OpenMidiIn: new RtMidiIn ...
+000275c0 RtMidi Input Client
+000275d8     OpenMidiIn: closePort (reuse) ...
+00027600     OpenMidiIn: openPort(%1) ...
+00027628 RtMidi Input
+00027638     OpenMidiIn: setCallback ...
+00027658     OpenMidiIn: done
+00027670     OpenMidiOut: new RtMidiOut ...
+00027698 RtMidi Output Client
+000276b0     OpenMidiOut: closePort (reuse) ...
+000276d8     OpenMidiOut: openPort(%1) ...
+00027700 RtMidi Output
+00027710     OpenMidiOut: done
+00027bf8 /AppConfig.ini
+00027c08 Open file '%1' failed, it may be occupied by other process
+00027ea9 RtMidiIn: no compiled support for specified API argument!
+00027ee8 RtMidiIn: no compiled API support found ... critical error!!
+00027f29 RtMidiOut: no compiled support for specified API argument!
+00027f68 RtMidiOut: no compiled API support found ... critical error!!
+00027fa8 MidiInApi::setCallback: a callback function is already set!
+00027fe8 RtMidiIn::setCallback: callback function value is invalid!
+00028028 RtMidiIn::cancelCallback: no callback function was set!
+00028061 RtMidiIn::midiInputCallback: error sending sysex to Midi device!!
+000280a9 RtMidiIn: message queue limit reached!!
+000280e0 MidiInWinMM::initialize: no MIDI input devices currently available.
+00028130 MidiInWinMM::initialize: InitializeCriticalSectionAndSpinCount failed.
+00028210 MidiInWinMM::openPort: a valid connection already exists!
+00028250 MidiInWinMM::openPort: no MIDI input sources found!
+00028288 ) is invalid.
+00028298 MidiInWinMM::openPort: the 'portNumber' argument (
+000282d0 MidiInWinMM::openPort: error creating Windows MM MIDI input port.
+00028320 MidiInWinMM::openPort: error starting Windows MM MIDI input port (PrepareHeader).
+00028380 MidiInWinMM::openPort: error starting Windows MM MIDI input port (AddBuffer).
+000283d0 MidiInWinMM::openPort: error starting Windows MM MIDI input port.
+00028420 MidiInWinMM::openVirtualPort: cannot be implemented in Windows MM MIDI API!
+00028479 MidiInWinMM::closePort: WinMM cleanup did not complete (code 
+000284b8 MidiInWinMM::getPortName: the 'portNumber' argument (
+000284f0 MidiOutWinMM::initialize: no MIDI output devices currently available.
+00028538 MidiOutWinMM::getPortName: the 'portNumber' argument (
+00028570 MidiOutWinMM::openPort: a valid connection already exists!
+000285b0 MidiOutWinMM::openPort: no MIDI output destinations found!
+000285f0 MidiOutWinMM::openPort: the 'portNumber' argument (
+00028630 MidiOutWinMM::openPort: error creating Windows MM MIDI output port.
+00028681 MidiOutWinMM::closePort: WinMM cleanup did not complete (code 
+000286c0 MidiOutWinMM::openVirtualPort: cannot be implemented in Windows MM MIDI API!
+00028710 MidiOutWinMM::sendMessage: message argument is empty!
+00028748 MidiOutWinMM::sendMessage: error preparing sysex header.
+00028788 MidiOutWinMM::sendMessage: error sending sysex message.
+000287c0 MidiOutWinMM::sendMessage: message size is greater than 3 bytes (and not sysex)!
+00028818 MidiOutWinMM::sendMessage: error sending MIDI message.
+00028850 vector too long
+00028864 MbP?FEDCBA
+00028870 112233332211
+00028880 06775F87918DD423005DF1D8CF0C142B
+000288b0 77F156247E471B86BD708E1E3B73160364AC285AC9B337C50A10B7A3BAB197463D05DC666EF69AF80D589567C6AAABECA0689B96D4EBBF434936E96A89D8C38A946399BC7BBEC122BB5C71D51F92575D8F44411D51E64017FBFD193234B8612ACA236FDA39F7A2017FD631E7DE8004DD2C5982AFA8E00FCDA1123E30D11CD03A33722E4F9002130675CE87C2EFB2AD7D3815E1529F7A6C2F27C4E281A9CF8DC0D7DFFF6076148C5E5509E408C74220FCD25091D94C629EE8B9A6F91A00210BFA359C4E4B6948CB0EC8A45BEA8407B418F4AE6BDBA7CC3F8B4A0C3C25E5544D4583ED11F0B05393F27426B59D6D7CF32DF156247E471B86BD708E1E3B731603B6AC285AC9B337C50A10B7A3BAB1974688
+00028be7 NSO:Nzz
+00028cc6 *g~b0R 
+00028d2b g>N1Y%
+00028fcc *g6e0R 
+00029060 FEDCBAC00600020001EF
+000292b0 0270617373
+00029827 QeQ1Y%
+00029878 E5807E887BDE07630B4D0E715B3E8991
+00029910 000001000020
+00029a0b Npenc:Nzz
+0002a018 OtaUpgradeWorker::startUpgrade() called
+0002a040 OTA upgrade process started in worker thread
+0002a070 Sending upgrade mode command (first step - verification)
+0002a0b0 Device already in OTA mode, waiting for device to be ready
+0002a0f0 Sending upgrade mode command (second step - upgrade)
+0002a128 Failed to send upgrade mode command
+0002a150 Failed to enter upgrade mode!
+0002a190 Upgrade mode command sent successfully
+0002a1b8 Sleeping before reading requests
+0002a1e0 success
+0002a1e8 Processing request #%1
+0002a200 Failed to get lower device request
+0002a230 Verification timeout! Please power cycle the device and try again.
+0002a2b0 Upgrade timeout! Please restart the software and try again.
+0002a328 Request received - FlashType: %1, Address: 0x%2, Length: %3
+0002a368 ERROR: OTA data is null or empty
+0002a390 OTA data is invalid!
+0002a3b0 Failed to acknowledge device diagnostic callback!
+0002a408 636 state callback - state=%1, stu=%2, err=0x%3
+0002a438 636 stop callback - error=0x%1
+0002a458 636 diagnostic callback - address=0x%1
+0002a480 Failed to acknowledge device validation error!
+0002a4e1 The target firmware is identical to the current firmware.
+0002a551 Loader validation failed; check Loader/VM, package structure and compatibility.
+0002a5a1 Loader 
+0002a5c0  Loader/VM
+0002a5f0 Device firmware validation failed: stu=%1, err_code=0x%2
+0002a65c =0x%2%3
+0002a668 Verification completed signal received
+0002a690 Failed to send isolated verification completion ACK!
+0002a700 Sent verification success response through isolated MIDI helper
+0002a740 MIDI preparation completed; waiting for upgrade transport enumeration
+0002a788 Already in OTA-MIDI updating state, verification completed
+0002a7c8 Upgrade completed signal received
+0002a7f0 Failed to send isolated upgrade completion ACK!
+0002a850 OTA upgrade process completed successfully through isolated MIDI helper
+0002a8a0 Device request out of bounds - Address: 0x%1, Length: %2, Firmware: %3
+0002a8f0 Device requested firmware data out of bounds!
+0002a948 Sending data to device - Address: 0x%1, Length: %2
+0002a980 Data sent successfully
+0002ac48 color:#ffffff;font-size:18px;font-weight: bold;
+0002ac80 QWidget[id='toast'] {background-color:rgba(10,10,10,210)}
+0002acc0 QWidget[id='toast'] {background-color:rgba(10,160,10,210)}color:#ffffff
+0002ad10 QWidget[id='toast'] {background-color:rgba(160,10,10,210)}color:#ffffff
+0002afd8 MainView
+0002afe8 :/Resources/Icons/AppIcon.png
+0002b010 #txtEdit_midiCodeView{
+0002b027   background-color: #000000;
+0002b04b font-size:14px;
+0002b05b font-weight: bold;
+0002b071 QMainWindow {
+0002b080   background-color: #151515;
+0002b09d   color: white;
+0002b0ad   font-family: "Roboto"; }
+0002b0c9 #centralwidget {
+0002b0da   background-color: #151515; }
+0002b0f9 QDialog{
+0002b102 background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 rgb(33, 0, 50), stop: 1 rgb(0, 0, 0));}
+0002b16a QWidget {
+0002b176   color: white;
+0002b186   font-family: "Roboto"; }
+0002b1a2 QGroupBox{
+0002b1ad  font-weight: bold;
+0002b1c1   background-color: rgba(36,36,36,210);
+0002b1e9   border-style: transparent;
+0002b206   border-radius: 8px;
+0002b21e QFrame {
+0002b227   background-color: #242424;
+0002b244   border-style: transparent; }
+0002b264 QGroupBox {
+0002b270   padding-top: 10px; }
+0002b287   QGroupBox::title {
+0002b29e     padding: 8px; }
+0002b2b3 QMenuBar {
+0002b2be   background-color: #151515;
+0002b2db   color: #c0c0c0; }
+0002b2ef   QMenuBar::item {
+0002b302     padding: 5px 12px 5px 12px; }
+0002b324     QMenuBar::item:selected {
+0002b342       background-color: #575757;
+0002b363       color: white; }
+0002b379     QMenuBar::item:pressed {
+0002b396       background-color: #0664c3; }
+0002b3ba QMenu {
+0002b3c2   padding-top: 3px;
+0002b3d6   background-color: #2f2f2f; }
+0002b3f5   QMenu::item {
+0002b405     padding: 5px 10px 5px 10px;
+0002b425     min-width: 180px; }
+0002b43d     QMenu::item:selected {
+0002b458       background-color: #0664c3; }
+0002b47c QLabel {
+0002b485   color: #c0c0c0;
+0002b497   background-color: transparent; }
+0002b4bb QLineEdit,
+0002b4c6 QComboBox,
+0002b4d1 QSpinBox,
+0002b4db QDoubleSpinBox {
+0002b4ec   color: #c0c0c0;
+0002b4fe   background-color: black;
+0002b519   height: 20px;
+0002b529   padding-left: 6px;
+0002b53e   border-radius: 8px;
+0002b554   border: 1px solid #353535; }
+0002b574 QLineEdit:disabled,
+0002b588 QComboBox:disabled,
+0002b59c QSpinBox:disabled,
+0002b5af QDoubleSpinBox :disabled{
+0002b5c9   color: #c0c0c0;
+0002b5db   background-color: #353535;
+0002b5f8   height: 20px;
+0002b608   padding-left: 6px;
+0002b61d   border-radius: 8px;
+0002b633   border: 1px solid black; }
+0002b652 QLineEdit:hover,
+0002b663 QComboBox:hover {
+0002b675   border-color: #4f4f4f; }
+0002b691 QLineEdit:focus {
+0002b6a3   border-color: #0664c3; }
+0002b6bf QComboBox::drop-down {
+0002b6d6   border: none;
+0002b6e6   padding-right: 5px; }
+0002b6ff QComboBox::down-arrow {
+0002b717   image: url(:/Resources/Icons/arrow-down.svg);
+0002b747   width: 15px; }
+0002b758   QComboBox::down-arrow:hover {
+0002b778     image: url(:/Resources/Icons/arrow-down-white.svg); }
+0002b7b3 QSpinBox::up-button,
+0002b7c8 QDoubleSpinBox::up-button {
+0002b7e4   image: url(:/Resources/Icons/arrow-up.svg);
+0002b812   subcontrol-position: top right;
+0002b834   padding: 2px 2px 0px 0px;
+0002b850   width: 15px; }
+0002b862 QSpinBox::up-button:hover,
+0002b87d QDoubleSpinBox::up-button:hover {
+0002b89f   image: url(:/Resources/Icons/arrow-up-white.svg); }
+0002b8d6 QSpinBox::down-button,
+0002b8ed QDoubleSpinBox::down-button {
+0002b90b   image: url(:/Resources/Icons/arrow-down.svg);
+0002b93b   subcontrol-position: bottom right;
+0002b960   padding: 0px 2px 2px 0px;
+0002b97c   width: 15px; }
+0002b98e QSpinBox::down-button:hover,
+0002b9ab QDoubleSpinBox::down-button:hover {
+0002b9cf   image: url(:/Resources/Icons/arrow-down-white.svg); }
+0002ba08 QPushButton {
+0002ba16   background-color: #353535;
+0002ba33   height: 20px;
+0002ba43   padding-bottom: 1px;
+0002ba5a   border-radius: 5px;
+0002ba70   border: 1px solid black; }
+0002ba8d   QPushButton:hover {
+0002baa3     background-color: #575757; }
+0002bac4   QPushButton:checked {
+0002badc background-color: #0664c3;
+0002baf7     color: white;
+0002bb10     QPushButton:checked:hover {
+0002bb30       background-color: #0070e0; }
+0002bb53   QPushButton:disabled {
+0002bb6c     color: #8f8f8f;
+0002bb80     background-color: #353535;
+0002bb9f     border-style: transparent; }
+0002bbc0   QPushButton:flat {
+0002bbd5     background-color: transparent;
+0002bbf8     color: #c0c0c0;
+0002bc0c     border-style: transparent; }
+0002bc2d     QPushButton:flat:hover {
+0002bc4a       color: white;
+0002bc5e       background-color: #353535; }
+0002bc81     QPushButton:flat:disabled {
+0002bca1       color: #575757; }
+0002bcba QRadioButton {
+0002bcc9   color: white;
+0002bcd9   background-color: transparent;
+0002bcfa   height: 20px; }
+0002bd0c   QRadioButton::indicator {
+0002bd28     height: 9px;
+0002bd39     width: 9px; }
+0002bd4b     QRadioButton::indicator:checked {
+0002bd71       image: url(:/Resources/Icons/radio.svg); }
+0002bda2     QRadioButton::indicator:unchecked {
+0002bdca       image: url(:/Resources/Icons/unradio.svg); }
+0002bdfe QCheckBox {
+0002be0a   color: white;
+0002be1a   background-color: transparent;
+0002be3b   height: 20px; }
+0002be4e QGroupBox::indicator,
+0002be64 QCheckBox::indicator {
+0002be7b   height: 15px;
+0002be8b   width: 15px;
+0002be9a   border-radius: 8px;
+0002beb0   border: 1px solid #353535; }
+0002bed0 QGroupBox::indicator:hover,
+0002beec QCheckBox::indicator:hover {
+0002bf09   border-color: #4f4f4f; }
+0002bf25 QGroupBox::indicator:checked,
+0002bf43 QCheckBox::indicator:checked {
+0002bf62   image: url(:/Resources/Icons/check.svg); }
+0002bf90 QTableView,
+0002bf9c QTreeView,
+0002bfa7 QListView {
+0002bfb3   background-color: #151515; }
+0002bfd3 QTableView::item,
+0002bfe5 QTreeView::item,
+0002bff6 QListView::item {
+0002c008   color: #c0c0c0; }
+0002c01d QTableView::item::selected,
+0002c039 QTreeView::item::selected,
+0002c054 QListView::item::selected {
+0002c070   selection-color: white;
+0002c08a   selection-background-color: #0070e0; }
+0002c0b4 QTableView::item::selected:focus,
+0002c0d6 QTreeView::item::selected:focus,
+0002c0f7 QListView::item::selected:focus {
+0002c119   background-color: #0070e0; }
+0002c139 QTableView::indicator:unchecked,
+0002c15a QTreeView::indicator:unchecked,
+0002c17a QListView::indicator:unchecked {
+0002c19b   image: url(:/Resources/Icons/uncheck.svg); }
+0002c1cb QTableView::indicator:checked,
+0002c1ea QTreeView::indicator:checked,
+0002c208 QListView::indicator:checked {
+0002c227   image: url(:/Resources/Icons/check.svg); }
+0002c255 QHeaderView::section {
+0002c26c   background-color: #2f2f2f;
+0002c289   padding-left: 5px;
+0002c29e   color: #c0c0c0;
+0002c2b0   border: none; }
+0002c2c2   QHeaderView::section::horizontal {
+0002c2e7     border-left: 1px solid #151515; }
+0002c30d   QHeaderView::section::vertical {
+0002c330     border-top: 1px solid #151515; }
+0002c355   QHeaderView::section:hover {
+0002c374     background-color: #353535; }
+0002c396 QTreeView::branch:closed:has-children {
+0002c3be   image: url(:/Resources/Icons/triangle-right.svg); }
+0002c3f4   QTreeView::branch:closed:has-children:hover {
+0002c424     image: url(:/Resources/Icons/triangle-right-white.svg); }
+0002c463 QTreeView::branch:open:has-children {
+0002c489   image: url(:/Resources/Icons/triangle-down.svg); }
+0002c4be   QTreeView::branch:open:has-children:hover {
+0002c4ec     image: url(:/Resources/Icons/triangle-down-white.svg); }
+0002c52a QTableWidget QTableCornerButton::section {
+0002c555   background-color: #2f2f2f; }
+0002c575 QProgressBar {border-radius:10px; background-color:#353535;color:rgb(255, 255, 255);}
+0002c5cb QProgressBar::chunk {border-radius:10px; background-color:rgb(255, 170, 0);color:rgb(255, 255, 255);}
+0002c632 QSlider {
+0002c63c   border: 1px solid #353535;
+0002c659   border-radius: 8px; }
+0002c671   QSlider:horizontal {
+0002c688     height: 18px; }
+0002c69c   QSlider:vertical {
+0002c6b1     width: 18px; }
+0002c6c4   QSlider::groove {
+0002c6d8     border: 1px solid #151515;
+0002c6f7     background: #151515;
+0002c710   border-radius: 8px;}
+0002c727     QSlider::groove:horizontal {
+0002c748       height: 16px; }
+0002c75e     QSlider::groove:vertical {
+0002c77d       width: 16px; }
+0002c792   QSlider::handle {
+0002c7a6     background: #353535;
+0002c7bf      border-radius: 8px;}
+0002c7d9     QSlider::handle:hover {
+0002c7f5       background: #575757; }
+0002c812     QSlider::handle:horizontal {
+0002c833       width: 30px; }
+0002c848     QSlider::handle:vertical {
+0002c867       height: 30px; }
+0002c87e QScrollBar {
+0002c88b   background: #151515; }
+0002c8a4   QScrollBar:horizontal {
+0002c8be     height: 11px; }
+0002c8d2   QScrollBar:vertical {
+0002c8ea     width: 11px; }
+0002c8fd   QScrollBar::add-page,
+0002c915   QScrollBar::sub-page {
+0002c92e     background: none; }
+0002c946   QScrollBar::add-line,
+0002c95e   QScrollBar::sub-line {
+0002c977     border: none;
+0002c989     background: none; }
+0002c9a1   QScrollBar::handle {
+0002c9b8     margin: 2px;
+0002c9c9     background: #575757;
+0002c9e2      border-radius: 3px; }
+0002c9fd     QScrollBar::handle:hover {
+0002ca1c       background: #8f8f8f; }
+0002ca3a QTabBar {
+0002ca44   background-color: transparent; }
+0002ca67   QTabBar::tab {
+0002ca78     background-color: #353535;
+0002ca98 margin-right: 10px;
+0002caac     padding: 5px;
+0002cabe     border-top-left-radius: 3px;
+0002cadf     border-top-right-radius: 3px; }
+0002cb03     QTabBar::tab:vertical:right {
+0002cb25       border-top-right-radius: 3px;
+0002cb49       border-bottom-right-radius: 3px; }
+0002cb72     QTabBar::tab:vertical:left {
+0002cb93       border-top-left-radius: 3px;
+0002cbb6       border-bottom-left-radius: 3px; }
+0002cbde     QTabBar::tab:bottom,
+0002cbf7     QTabBar::tab:top {
+0002cc0e       min-width: 60px; }
+0002cc27     QTabBar::tab:left,
+0002cc3e     QTabBar::tab:right {
+0002cc57       min-height: 60px; }
+0002cc71     QTabBar::tab:hover {
+0002cc8a       background-color: #242424; }
+0002ccad     QTabBar::tab:selected {
+0002ccc9       background-color: #151515; }
+0002ccec   QTabBar::indicator {
+0002cd03     width: 5px;
+0002cd13     height: 5px; }
+0002cd26   QTabBar::close-button {
+0002cd40     image: url(:/Resources/Icons/cross.svg); }
+0002cd6f     QTabBar::close-button:hover {
+0002cd91       image: url(:/Resources/Icons/cross-white.svg); }
+0002cdc8     QTabBar::close-button:!selected {
+0002cdee       image: none; }
+0002ce04 QTabWidget {
+0002ce11   border: none; }
+0002ce23   QTabWidget:pane {
+0002ce37     border: none; }
+0002ce4c QDockWidget {
+0002ce5a   background-color: #2f2f2f;
+0002ce77   font-weight: bold;
+0002ce8c   color: #c0c0c0;
+0002ce9e   border-radius: 8px;
+0002ceb4   titlebar-close-icon: url(:/Resources/Icons/cross.svg);
+0002ceed   titlebar-normal-icon: url(); }
+0002cf0e   QDockWidget::close-button {
+0002cf2c     image: url(:/Resources/Icons/cross.svg);
+0002cf59     background: none;
+0002cf6f     border: none;
+0002cf81     icon-size: 5px; }
+0002cf97     QDockWidget::close-button:hover {
+0002cfbd       image: url(:/Resources/Icons/cross-white.svg); }
+0002cff5 QToolBox::tab {
+0002d005   background-color: #2f2f2f;
+0002d022   font-weight: bold;
+0002d037   color: #c0c0c0;
+0002d049   border-radius: 8px;
+0002d05f   image: url(:/Resources/Icons/triangle-right.svg);
+0002d093   image-position: left; }
+0002d0ad   QToolBox::tab:selected {
+0002d0c8     image: url(:/Resources/Icons/triangle-down.svg); }
+0002d0ff QListWidget::item:hover { background-color: transparent; }
+0002d13a QListWidget::item:selected { background-color: transparent; }
+0002d179 QListView{
+0002d184  border: 1px solid #353535;
+0002d1a0   border-radius: 8px;
+0002d1ba QListView::item:selected:!active {
+0002d1dd     background: rgba(0,0,0,0%);
+0002d202 QListView::item:selected:active {
+0002d224      background: rgba(0,0,0,0%);
+0002d245     border: none;
+0002d25a QListView#listview_users:focus{
+0002d27a     outline: 0px;
+0002d290 QListView::item:hover {
+0002d2a8     background: rgba(0,0,0,0%);
+0002d2d0 gb_ota_upgrade
+0002d2e0 btn_uf
+0002d2e8 Roboto
+0002d2f0 btn_sf
+0002d2f8 lbl_sotaf
+0002d308 lbl_ufLabel
+0002d318 groupBox
+0002d328 lbl_waitDeviceConnect
+0002d340 font-size:35px;
+0002d350 font-weight:900;
+0002d361 color:rgb(255,255,255);
+0002d380 M-UPGRADE
+0002d390 OTA upgrade
+0002d3a0 Update Firmware
+0002d3b0 Select Firmware
+0002d3c0 Firmware not selected
+0002d3d8 Waiting for a device to connect
+0002d5a8 background-color:rgba(10,10,10,210)
+0002d780 :/Resources/Pic/OTA.gif
+0002d798 color: white; font-size: 44px; font-weight: bold;
+0002d9a8 WARNING
+0002d9b0 Serialized MIDI open took %1ms (warning threshold %2ms)
+0002d9f0 All MIDI detection threads and WinMM handles have been closed
+0002da30 Verify ota file...
+0002da48 Ota upgrade in progress..
+0002da68 Waiting for device reconnection...
+0002dab0 No supported upgrade device was detected after MIDI preparation!
+0002db19  OTA-MIDI 
+0002db40 The upgraded MIDI device did not reconnect!
+0002db78  MIDI 
+0002dbc0 Firmware data was sent, but the device did not leave OTA mode!
+0002dc40 Firmware upgrade is already in progress!
+0002dc88 Please connect the device first!
+0002dcb0 Force upgrade enabled by Y+U+I+O; bypassing version and firmware model checks
+0002dd00 Close request ignored while firmware upgrade is active
+0002dd40 Firmware upgrade is in progress. Please wait!
+0002dda0 Opening OTA file dialog
+0002ddb8 /Config/OTA_FILE
+0002ddd0 FWSC File(*.fwsc)
+0002dde8 No file selected
+0002de00 Selected file: %1
+0002de20 OTA file validation failed
+0002de40 OTA file parsed successfully
+0002de60 OTA file parsing failed
+0002de78 Failed to open file: %1
+0002de90 File too small: %1 bytes (min %2)
+0002deb8 OTA file format validation failed
+0002dee0 File format error!
+0002def8 Parsed OTA file (%1-slot) - Name: %2, Version: %3
+0002df30 Detecting firmware upgrade mode...
+0002df80 MIDI preparation completed; detecting HID 4D4A:4155 or matching OTA-MIDI device
+0002dfd0 Detected HID OTA loader 4D4A:4155; selecting AC636 RCSP-over-HID upgrade
+0002e020 636 HID OTA is already running, ignore duplicate start
+0002e058 Firmware not loaded!
+0002e080 Connecting to 636 HID OTA device...
+0002e0b0  636 HID 
+0002e0d0 Waiting for 636 HID OTA device...
+0002e0f8  636 HID 
+0002e118 636 HID OTA stage: waiting for HID device
+0002e150 Authenticating 636 HID device...
+0002e17d  636 HID 
+0002e190 636 HID OTA stage: authenticating
+0002e1b8 Checking 636 firmware...
+0002e1f0 636 HID OTA stage: E1/E2/E3
+0002e210 636 firmware upgrade in progress... 0%
+0002e24a ... 0%
+0002e258 636 HID OTA stage: transferring firmware
+0002e290 636 firmware upgrade in progress... %1%
+0002e2cb ... %1%
+0002e2d8 636 HID OTA transfer reached firmware end, blocks=%1
+0002e310 636 HID data stage completed: requestedBytes=%1, blocks=%2; waiting for MIDI verification
+0002e370 636 HID OTA failed: %1
+0002e388 636 HID OTA failed!
+0002e39c 636 HID 
+0002e3b8 636 HID OTA worker thread finished
+0002e3e0 636 HID OTA worker is already active!
+0002e406 636 HID 
+0002e430 Waiting for upgraded MIDI device...
+0002e466  MIDI 
+0002e478 Starting post-upgrade normal MIDI verification
+0002e4b0 Waiting for the upgraded MIDI device to leave OTA mode...
+0002e520 Legacy MIDI data stage completed; allowing the device to reboot before normal-mode verification
+0002e580 MIDI preparation completed (0xE0000000); closing MIDI before transport detection
+0002e5e0 Waiting for firmware upgrade device...
+0002e630 Second step (upgrade) completed successfully
+0002e660 OTA upgrade failed: %1
+0002e678 OTA thread finished and will be deleted
+0002e6a0 Starting OTA upgrade process
+0002e6c0 skipNameCheck parameter: %1
+0002e6e0 Device list is empty - cannot proceed with OTA upgrade
+0002e718 Selected device: %1, Version: %2
+0002e740 OTA entry data length is 0, opening OTA file
+0002e770 No file selected or file is empty, stopping upgrade
+0002e7a8 Firmware not selected or invalid
+0002e7d0 Firmware not selected!
+0002e7e8 A HID OTA loader was already present before MIDI preparation
+0002e830 Another HID OTA device is already connected. Please keep only one target device connected!
+0002e8d8 USB open result: %1
+0002e8f0 Success
+0002e8f8 Failed
+0002e900 USB connection failed
+0002e918 Device name mismatch! USB device: %1, Expected: %2
+0002e950 Please do not card bugs!
+0002e970 Same firmware version detected: %1
+0002e998 Cannot update the same firmware!
+0002e9c0 Firmware device name mismatch! Firmware: %1, Device: %2
+0002e9f8 The firmware does not conform to the current device!
+0002ea30 All pre-checks passed, starting OTA process
+0002ea60 Setting mask content to OTA preparation label
+0002ea90 Preparing firmware over MIDI...
+0002eabc  MIDI 
+0002ead8 Setting mask content to OTA update label
+0002eb08 Starting OTA thread
+0002eb28 /ota_upgrade_%1.log
+0002eb40 yyyyMMdd
+0002eb50 yyyy-MM-dd hh:mm:ss.zzz
+0002eb80 The device needs to be connected first
+0002eba8 color:#ff0000
+0002ebb8 Device name:%1 Version:%2
+0002ebd8 A firmware that does not conform to the device was selected
+0002ec18 Force upgrade mode: firmware mismatch will be ignored
+0002ec50 color:#ff9900
+0002ec60 Firmware version:%1
+0002ec78 color:#00ff00
+0002ec88 \s+\d+$
+0002ec90 Found %1 MIDI input ports, %2 MIDI output ports
+0002ecc0 Scan in-port %1: "%2"
+0002ecd8 MIDI error: %1
+0002ece8 Upgrade in progress, skip port probing
+0002ed10 Probing ports %1/%2 ...
+0002ed28 Probe ports %1/%2 returned: %3
+0002ed48 no-response
+0002ed58 Not a target device on ports %1/%2 (no handshake response)
+0002ed98 Connected to device: %1
+0002edb8 636 result verification ignored OTA-mode MIDI device: %1
+0002ee00 Ignoring unrelated MIDI device while verifying 636 result: %1_%2
+0002ee50 Firmware version verification failed: expected %1_%2, got %3_%4!
+0002eeb0 636 post-upgrade MIDI verification passed: %1_%2
+0002eee8 Upgrade completed!
+0002ef10 Post-upgrade wait ignored lingering OTA-MIDI device: %1
+0002ef48 Post-upgrade wait ignored unrelated MIDI device: %1_%2
+0002ef80 Firmware version verification failed: expected %1, got %2!
+0002efe0 Post-upgrade normal MIDI verification passed: %1_%2
+0002f018 Ignoring MIDI device while detecting upgrade transport: %1_%2
+0002f058 Detected OTA-MIDI device %1; selecting legacy MIDI upgrade%2
+0002f098  in force mode
+0002f0b0 OTA-MIDI device detected outside an active preparation transaction; waiting for user action
+0002f110 Device connected successfully: %1, Version: %2
+0002f1bf ?MIDI device detection thread reset
+0002f1f0 MIDI device count changed - Input: %1->%2, Output: %3->%4 (settling...)
+0002f240 MIDI device count still changing during settle (In:%1, Out:%2), defer
+0002f288 MIDI device count settled - Input: %1, Output: %2, notify UI
+0002f2c8 MIDI device detection error:
+0002f2e8 MIDI device detection thread initialized
+0002f318 The value is: 
+0002f328 invalid stoi argument
+0002f340 stoi argument out of range
+0002f3e0 generic
+0002f418   open(): calling M_usb.open(idx=0x%1) ...
+0002f448   open(): M_usb.open returned %1
+0002f470   open(): handshake query attempt %1, timeout=%2ms ...
+0002f4b0   open(): handshake query attempt %1 got no valid response
+0002f4f0 get_upload_responds::Data type not 0x30!
+0002f520 Data length error,need %d bytes,got %d bytes
+0002f550 get_upload_responds::Checksum error!
+0002f578 Cannot send isolated terminal ACK: MIDI output port is unknown
+0002f5b8 Cannot send isolated terminal ACK: packet construction failed
+0002f600 Cannot send isolated terminal ACK: main MIDI close failed (input=%1, output=%2)
+0002f650 Cannot send isolated terminal ACK: application path is empty
+0002f6b8 Starting isolated MIDI terminal ACK helper on output port %1
+0002f6f8 Isolated MIDI terminal ACK helper failed to start: %1
+0002f730 Isolated MIDI terminal ACK helper timed out and was terminated
+0002f770 Isolated MIDI terminal ACK helper finished: exit=%1%2
+0002f7a8  output=%1
+0002f7f0 invalid string position
+0002f808 Checksum error,calc=%.2X, got=%.2X
+0002f830 Cmd type error
+0002f858 /LOG/app_log.txt
+0002f870 yyyy-MM-dd hh:mm:ss
+0002f888 CRITICAL
+0002f8a8 /LOG/crash_dump.txt
+0002f8c0 FATAL CRASH at 
+0002f8d0 Message: 
+0002f8dc File: 
+0002f8e8 unknown
+0002f8f0 Line: 
+0002f8f8 Function: 
+0002f908 [%s] %s
+0002f918 --midi-terminal-ack
+0002f930 :/Resources/Qss/main.qss
+0002f950 MidiSuiteApplicationKey
+0002f968 Another instance of the application is already running.
+0002f9a8 Failed to create shared memory.
+0002fa08 IiCCPsRGB IEC61966-2.1
+0002feb1 v/{LSCs
+0002ff5b k<abi2
+0002ffea ;t;|rtu
+0003004f /^v^Y^
+00030067 {`:>=e
+00030191 3	OR+y
+0003049f iTXtXML:com.adobe.xmp
+000304b9 <?xpacket begin="
+000304cd " id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.0-c001 79.c0204b2, 2023/02/09-06:26:14        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmp:CreatorTool="Adobe Photoshop 24.5 (Windows)" xmp:CreateDate="2023-05-17T12:15:09+08:00" xmp:ModifyDate="2023-05-31T11:34:13+08:00" xmp:MetadataDate="2023-05-31T11:34:13+08:00" dc:format="image/png" photoshop:ColorMode="3" xmpMM:InstanceID="xmp.iid:77000315-4a37-b647-a646-37315da2c628" xmpMM:DocumentID="xmp.did:77000315-4a37-b647-a646-37315da2c628" xmpMM:OriginalDocumentID="xmp.did:77000315-4a37-b647-a646-37315da2c628"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:77000315-4a37-b647-a646-37315da2c628" stEvt:when="2023-05-17T12:15:09+08:00" stEvt:softwareAgent="Adobe Photoshop 24.5 (Windows)"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>.9
+00030bb3 -$-yHRp
+00030f20 rZMri_
+00031130 D.^'-9
+000314d1 ]TWd}{
+00031e6c -)3EmmN
+000325d4 /&roR5
+000326f2 p-6xzv
+0003278a <v\:0/
+0003293c kW=;_`
+00032c6e j5y.V&
+00032daa >LS}>"
+00032dee H}r2N^
+00033415 3(TEj^
+0003343d [GYgt&
+000335b3 CDX&m-ER
+000336bd 0!>!fD
+000338a7 >I1^jV
+00033a53 c4v+Pfus
+00033cce {gbdb/
+00033f90 |J=9B 
+00034109 %uy9VZ
+000343d6 XGr1qG+
+000348dc 40?i"1
+00035038 3";Qmav
+000353fa 8BUQ[^
+00035487 LTp5PT
+000354b3 }/8F4I
+000354ee v>EY<iu
+000355bf :T[)W.
+00035725 "Iz,pOC{
+000359cc x7p9VZ%?
+000360d1 3Q]	|	
+000365c5 <{5/"h
+00036888 fzPz%Z
+00036b82 >4j}rX
+00036eab FikEZ[
+00037f35 v {[,6
+0003845e Au-5IN
+000384c9 ?4s}n(/u f
+000386cd ,Gvc{6
+00038780 l0{8&\
+00038d93 E1Y3~,Tv
+00038e7e UL>[rQ|
+00038f25  L!?$eegh
+00038f42 Nzz&kb7
+00039779 Q~%"o@(
+0003a067 s4)_E.
+0003a0c4 C'cN8l
+0003a160 v&>T}9^
+0003a33d GR|hImH
+0003a370 &J~/FJ
+0003a4ba #aH0q,]
+0003a9cb ;O+9	@
+0003aa7e lD>	dP
+0003acd4 QMO9h	
+0003aecc \?`}9@'B
+0003b2c0 g	2=$s
+0003b42c :r[M@m
+0003b56c  gfs3v
+0003b5c3 )))OKR!
+0003bb2f :w*"/Uc
+0003bba6 ,A&3?;u
+0003be10 a$0$[:
+0003c062 SRRvI*
+0003c3ca dK'}[;A
+0003c433 lo	;o1
+0003c551 5H`^F`
+0003c720 9JsV|O
+0003ca43 T0r(N_N
+0003ccf3 ^EX Pk/
+0003ce28 =6YOEp
+0003ce56 "r%p4N
+0003d0c8 h&p#"_
+0003d0f5 lTWH`n
+0003d2c2 $j%"+Q%hi
+0003d75d {&hn$s
+0003df1f +4J0& 3u
+0003dfb4 /0Ho%-
+0003e333 x^SRRR
+0003e5e3 &{~F>|1
+0003e736 a*p3p+
+0003ec2d VXU)Ll
+0003ed61 t:NO!`
+0003edad $H6<Yr
+0003fa45 kb/P_`
+0003fef4 y)rsEX
+0004022a alE"P,
+00040379 6B0q<Q
+00040ac0 dr3'!8\1~u
+00040c64 >IN<aC9
+00040d38 AU1S&bw
+00040dfc z%No"0
+0004125b DeAZ[0M
+00041288 6,8qHz
+000413b8 Wm$3~"
+000414bc r'L}kz
+000417b7 Y}HA40
+00041933 =@jc:|cT
+00041aef 9z(W~fj
+00042053 3^^|bC
+000421f8 e*^p|*a
+000422ca Q	JE@a
+000424cf uMIGw5
+00042799 &f|VEYw
+00042991 *L.K8c"T\i
+000429db X"<e&L
+00042c69 MOr]=S
+000439e0 36J>/Ap
+00043a35 %g`d6N3
+00043e0f vvc2i$0
+00043f01 Yu<U16
+00044882 voGV?v
+00044937 bD.Cu*
+000449ce LSE3Yt
+000449d6 6<]NKV
+00044e34 5c_!p*
+00045406 b/p7"w
+0004578c ^pMO?{P$
+00045bd9 j!>.Uk
+00045ce5 ?GS[ZK
+00045fc5 0	at-B
+000461f5 .)F HCx
+00046592 dO;qva
+00046b24 /dH.Ci
+00046d54 P$0;$0
+00046de2 :N_/ap
+000473ab #xK.xO
+000473b8 (E9DZP
+00047939 9%Kf\B
+000480e0 /3Gl(Z,"N
+0004825c odp.yt
+000482d6 gX_=r4
+0004832d &TO',2
+00048354 8P8:;/
+0004880c @5,^U,
+00048b08 +=Ub=M
+000493ba `{"&<O
+0004976d 3l:3nTq3
+00049988 r2FCwa
+00049b04 =R*}S|
+0004a15b  x>f<n
+0004a2b0 uDFitNX
+0004a323 ?Ag+%D
+0004a3fa !pG0%j
+0004a466 Bg*Wi=
+0004a636 ::[m[m
+0004a6fe }u\@y|-3
+0004a77d 8]Dn(l
+0004a8c9 2P>EgfU
+0004a97b YX3z^a
+0004a9b0 R,l*]z
+0004adbb `jvaTg1/
+0004af51 "p#Xtj
+0004b13e ~NtC8G
+0004b1c0 A+C8jM
+0004b259 asw>s+%
+0004b6c7 G1E*Yx
+0004c5fa ;vr5"'
+0004c69a  kF+08
+0004cae4 I_Z_	;
+0004ccf5 o8DzdKQ
+0004cf64 Z}9|/^
+0004d0c0 .l>fI_3
+0004d2de 1}d7"c
+0004d621 #V{j4$3
+0004db7e q>\~F8
+0004db89 vF8-U=s
+0004dd23 *L?rzm
+0004df3d *BD?K{
+0004e176 ftn =Bz7
+0004e1b7 ~(|?)>
+0004e2d9 1=C\8	
+0004e35d JJa)bsQ!
+0004e3d7 h[5z9Lc%"
+0004e4aa )`s0IJ
+0004e624 SfFOfz
+0004e6e8 BV<MiG
+0004e7bd I{$]A;
+0004ea30 7M)A9N
+0004eaa3 AT[2xE
+0004ecb0 IbqZhA
+0004ecd3 JOd,M[
+0004ef36 y8n fKQ
+0004f3a7 _2G"H;
+0004f8b6 ^cI"p;
+0004fcbd V:"|"Q
+0004fdc4 uP$A\Y
+0004fdcf 4tvT!ks
+0004fdf5 +KXz3z
+0004fe6b >sOW%}F8
+0005002e 5"<G^d%"
+00050037 ucgi"p
+00050457 @|<&:#
+000505b3 mw|kq%<
+00050c80 5\.f0eu
+00051193 0g`?6Y
+00051554 Wc{N3-
+000516a2 bc)->S
+00051715 >Zh6rR<
+00051aef fo~c4t
+00051b0e \2MU+Z
+00051cae i-.$g)C
+000523cc 3e}|px
+000524db cc(M7k6
+000525b9 *{+2,*XF
+00052939 py.R-Wc&
+00052a38 ;~s*{@
+00052c42 4AUs~d
+0005325c G$Fu{S
+00053367 oasmre
+0005352f U-9j.+4
+0005377e $.rVbB
+0005379a *aZ%0}
+000538d9 O.f6.i
+00054088 -%:{qc
+000545ab wu*9l5{
+00054e12 7,}(Ho
+00055169 /ym?P<
+000551cb f7f3lO^
+0005532f pxM{18
+00055382 ~Lf-fv
+000554ac 1A_!Yn
+0005560f Gc_JtG
+00056092 ZDT&e$
+00056a1b [Fw!Lg
+00056a6d iTXtXML:com.adobe.xmp
+00056a87 <?xpacket begin="
+00056a9b " id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.0-c001 79.c0204b2, 2023/02/09-06:26:14        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmp:CreatorTool="Adobe Photoshop 24.5 (Windows)" xmp:CreateDate="2023-05-17T12:15:09+08:00" xmp:ModifyDate="2023-05-31T15:36:29+08:00" xmp:MetadataDate="2023-05-31T15:36:29+08:00" dc:format="image/png" photoshop:ColorMode="3" xmpMM:InstanceID="xmp.iid:97b8e838-2c26-cc46-be3f-f21de23c5559" xmpMM:DocumentID="xmp.did:97b8e838-2c26-cc46-be3f-f21de23c5559" xmpMM:OriginalDocumentID="xmp.did:97b8e838-2c26-cc46-be3f-f21de23c5559"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:97b8e838-2c26-cc46-be3f-f21de23c5559" stEvt:when="2023-05-17T12:15:09+08:00" stEvt:softwareAgent="Adobe Photoshop 24.5 (Windows)"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+00056f87 tv3Q-0
+00056fa5 f7{O0Q{
+00057007 DXDDDDD
+0005704f """"""
+00057075 FDDDDD
+00057177 GDDDDDD
+000571b1 EDDDDDdx)
+000572a7 """"""
+000572f4 )#:2|W
+00057301 [DDDDDD
+0005737a """"""
+00057396 $""""""
+000573b4 .""""""
+000573d1 $""""""
+000573d9 !`9hR{m
+000573ef .]""""""r
+00057421 -""""""
+0005743a %ZDDDDDD
+0005746d DDDDDDD
+00057487 -""""""2
+000574a1 EDDDDDD
+000574bf Z"""""""
+000574d8 I""""""2
+000574f1 EDDDDDdl
+00057569 :LXm{E
+0005762b c}h^{o
+00057a06 q$k(3|
+00057a49 3#f4GP
+0005808b :Y5]n{	
+0005892e 3;Sl]oz
+00058a66 b'>e{P
+00058c63 [SF`5nI
+00059140 7 Xn{a
+00059659 ^5]UVe
+00059fd6 oS`GZoX
+0005a1c4 yJFXzo
+0005a2fc ]Mho{	
+0005a4cb .9CYMC
+0005a53c [G1iZ`#
+0005a858 8a5X8U
+0005aa47 zNio{S
+0005ac89 -(H9< OZ
+0005ae36 'cYq]n
+0005af40 UlKwlN
+0005b457 z[_{Nb
+0005b5e4 h}f{R[
+0005b882 -R|D<l({
+0005bbaf b[J6|f
+0005bf4c *9B91n
+0005c375 gH%>0T
+0005c3e4 """"""
+0005c43e Q","""""r^
+0005c471 """"""
+0005c4ff `G[3,	
+0005c533 :","""""r
+0005c552 S","""""r>&
+0005c570 EDDDDD
+0005c586 EDDDDD
+0005c5ab FXDDDDD
+0005c5ca EDDDDD
+0005c623 DXDDDDD
+0005c6a1 """"""
+0005c6ff """"""
+0005c726 ,KDDDDD
+0005c748 :","""""r	J
+0005c758 tDXDDDDDD.
+0005cc2f E}pn:T
+0005cdcd [6cm{%V
+0005cf2b 68v9^W
+0005cf3e E>lUvvj
+0005cf62 DXDDDDDD
+0005cf6e EDDDDD
+0005cf81 DXDDDDDD.
+0005cf97 EDDDDD
+0005cfaa DXDDDDDD.
+0005cfc0 EDDDDD
+0005d0bf l']v\^ZMo
+0005d222 i{?Q"|LE5
+0005d25b EDDDDD
+0005d26e DXDDDDDD.
+0005d284 EDDDDD
+0005d297 DXDDDDDD.
+0005d2ad EDDDDD
+0005d2c0 DXDDDDDD.
+0005d2d6 EDDDDD
+0005d2e9 DXDDDDDD.
+0005d2ff EDDDDD
+0005d312 DXDDDDDD.
+0005d328 EDDDDD
+0005d33b DXDDDDDD.
+0005d394 C9Te)n9
+0005d4d6 7]#,""""""
+0005d4ee """"""rQ
+0005d4ff EQ",""""""
+0005d517 """"""rQ
+0005d528 EQ",""""""
+0005d540 """"""rQ
+0005d551 EQ",""""""
+0005d569 """"""rQ
+0005d6a1 N;XT?]z
+0005d702 DXDDDDDD.
+0005d718 EDDDDD
+0005d72b DXDDDDDD.
+0005d741 EDDDDD
+0005d754 DXDDDDDD.
+0005d76a EDDDDD
+0005d77d DXDDDDDD.
+0005d793 EDDDDD
+0005da3d X'p3p=
+0005db19 cy;l5F
+0005db60 +1bcn{9
+0005dd5b |>vT^QM
+0005e0ff $""""""r4J
+0005e10a EDDDDD
+0005e11d DXDDDDDD.
+0005e133 EDDDDD
+0005e146 DXDDDDDD.
+0005e15c EDDDDD
+0005e16f DXDDDDDD.
+0005e20c g9p]NA=n	
+0005e70f iymQM3
+0005e71f 6XtLe5
+0005e825 mW}\kw
+0005eb4a FXDDDDDD
+0005eb5d EQ",""""""
+0005eb75 """"""rQ
+0005eb86 EQ",""""""
+0005eb9e """"""rQ
+0005ebaf EQ",""""""
+0005ebc7 """"""rQ
+0005ebd8 EQ",""""""
+0005ed41 EDDDDD
+0005ed54 DXDDDDDD.
+0005ed6a EDDDDD
+0005ed7d DXDDDDDD.
+0005ed93 EDDDDD
+0005eda6 DXDDDDDD.
+0005edbc EDDDDD
+0005edcf DXDDDDDD.
+0005ede5 EDDDDD
+0005efa2 """"""rQ
+0005efb3 EQ",""""""
+0005efcb """"""rQ
+0005efdc EQ",""""""
+0005eff4 """"""rQ
+0005f005 EQ",""""""
+0005f01d """"""rQ
+0005f02e EQ",""""""
+0005f046 """"""rQ
+0005f057 EQ",""""""
+0005f06f """"""rQ
+0005f0ac w\Nl{	Pt\
+0005f17f 1<`}fI
+0005f2f4 EDDDDD
+0005f307 DXDDDDDD.
+0005f31d EDDDDD
+0005f330 DXDDDDDD.
+0005f346 EDDDDD
+0005f5de s>LuF#
+0005f871 -&eu?3
+0005f8c7 b#O%~z
+0005faa2 EDDDDDD^k
+0005fac7 EDDDDD
+0005fada DXDDDDDD.
+0005faf0 EDDDDD
+0005fb03 DXDDDDDD.
+0005fb19 EDDDDD
+0005fb2c DXDDDDDD.
+0005fb42 EDDDDD
+0005fb55 DXDDDDDD.
+0005fb6b EDDDDD
+0005fb7e DXDDDDDD.
+0005fb94 EDDDDD
+0005fba7 DXDDDDDD.
+0005fbbd EDDDDD
+0005fbd0 DXDDDDDD.
+0005fef6 [fcYve
+0005ff5e """"""rQ
+0005ff6f EQ",""""""
+0005ff87 """"""rQ
+0005ff98 EQ",""""""
+0005ffb0 """"""rQ
+0005ffc1 EQ",""""""
+000600b6 }X9h-\
+000602c7 #m""""""r
+000602e0 IDDDDDD
+000602fa fEDDDDDD
+00060343 EDDDDDd|
+0006037d """""""C
+000603ef -""""""2
+0006041a QeX~ZT
+00060433 -""""""2
+00060453 \DDDDDDd
+00060490 (DDDDDDDd
+000604b1 """""""]
+000604d2 *LDDDDDDdI`5
+000604f4 EDDDDD
+00060515 BEDDDDDDX}jQ
+00060536 ,""""""
+00060557 DDDDDDD
+0006059a {EDDDDDD
+000605e4 """"""
+00060632 DDDDDDd
+0006065d !""""""
+00060709 F[""""""c
+00060735 Q","""""2&
+000607ab WKDDDDDD
+000607d4 #""""""
+000608a2 VIDDDDDD
+00060908 GIF89a
+0006099f uuuiiiggg
+000609ab kkkyyy}}}
+000609c0 |||tttvvvooo
+000609d5 rrrppp
+000609f9 ~~~jjj
+00060a98 NETSCAPE2.0
+00060aab XMP DataXMP<?xpacket begin="
+00060aca " id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS6 (Windows)" xmpMM:InstanceID="xmp.iid:67D48E7E653811E6BCF7F6F96856B1C3" xmpMM:DocumentID="xmp.did:67D48E7F653811E6BCF7F6F96856B1C3"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:67D48E7C653811E6BCF7F6F96856B1C3" stRef:documentID="xmp.did:67D48E7D653811E6BCF7F6F96856B1C3"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+00060e44 ~}|{zyxwvutsrqponmlkjihgfedcba`_^]\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)('&%$#"! 
+00060eee #%--((B$#
+00060ef8 C-11'%#
+00060f21 -B}b[||&!?&|!
+000611ff m$ePAf
+00061ab9 Cp9sb7
+00061ac9 {yg40+^
+00061c5d -$$!?!FG1
+00061c69 }B(B-'#
+00061c79 'Bb?njNqm
+00061c87 -||[WiS
+00061ca3 _k>IUk
+00061cbc #$&gykIOQ
+00062197 "UP=BH`
+0006252f , `v3x
+00062954 -(Stlx
+0006295f CglF|Zi$C%
+00062987 Ns=d$1
+00062993 $ZoU	]4J"H34+9"~8
+000629a5 ({DUIUD_DXUp
+000629c0 ~:."9L~
+00062cb4 @C"ISj
+00062df1 ( !dx'2
+000630a8 XN1	: 
+00063354 4TWx.X
+0006362c Bmygas|}6
+00063665 ::A@);
+0006366f *L;3;":<;@4
+0006368b @HJ397
+00063709 /!F\]k
+00063ce5 yx,;f`
+00063d84 fP*v(a
+0006404f /X~ewo
+00064309 '*8?Fsg
+00064314 gGn!8(-
+00064324 %(8Fl{c
+000646b4 1](P0w
+0006486c j\b)d@:t
+00064912 |8*Z}6H
+00064d2c gU ""F
+00064f7f |s^gqm
+00064f8a Kzni*1
+00064fc3 :"+3+L
+00064fde #dKD	7
+0006509b 0Ql4.V
+00065b05 Pv;I}=i
+00065c84 -(Stlx
+00065c93 xltS(-
+00065cc3 $ZoU	]
+00065cd5 8~"9+43H"
+00065cdf ]	UoZ$
+00065d21 DIHD~<(
+00065d35 LE~tE$P 
+00065dc3 A ki6H
+00066013  jPQ*b%P
+00066616 H lBj`
+00066655 7}:"i=
+000668d6 %#6'6*
+000668e0 mqg^s|
+00066910 #%B*5*}$
+00066943 +@@7	DKd
+00066a9a P!!	b(
+00066fea CCS:@tPF
+000671fa Ih|\uNu
+000675eb iTXtXML:com.adobe.xmp
+00067605 <?xpacket begin="
+00067619 " id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.0-c001 79.c0204b2, 2023/02/09-06:26:14        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmp:CreatorTool="Adobe Photoshop 24.5 (Windows)" xmp:CreateDate="2023-05-17T12:15:09+08:00" xmp:ModifyDate="2023-05-31T15:32:26+08:00" xmp:MetadataDate="2023-05-31T15:32:26+08:00" dc:format="image/png" photoshop:ColorMode="3" xmpMM:InstanceID="xmp.iid:6493f551-0727-d34e-ba4b-4b01cdff1b8f" xmpMM:DocumentID="xmp.did:6493f551-0727-d34e-ba4b-4b01cdff1b8f" xmpMM:OriginalDocumentID="xmp.did:6493f551-0727-d34e-ba4b-4b01cdff1b8f"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:6493f551-0727-d34e-ba4b-4b01cdff1b8f" stEvt:when="2023-05-17T12:15:09+08:00" stEvt:softwareAgent="Adobe Photoshop 24.5 (Windows)"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?> 
+000686da @x`\BH.>
+000686fc W`| l<n
+000687ec BC~K|}HzD
+00068830 m6!lP>
+00068850 nvbn8<
+00068ae8 FyOMSS
+00068bab }jt{|O
+00068f36 IB<J_m
+00068fd2 {\qX{l
+00069c45 :c",i(
+00069d05 Gx|;Ss
+00069e61 f:c",i(
+0006a05c >}#NK[E
+0006a249 @VNXG~f
+0006a43b k|d:q|G
+0006a471 qLy|	`E
+0006a482 86;iyk
+0006aa3a ]Z2wWL'NK
+0006ab08 rNq\b"<
+0006abf6 ?7CVf$J
+0006ac3a ~ql>Zw
+0006ad74 @^w+NKH
+0006ae3e e]~qbyS
+0006af2c $Nwvby	
+0006b016 ?CW@za2
+0006b027 x;t%$I
+0006b116 u}N^w+
+0006b20b PtPfVw
+0006b235 gg",u+'
+0006b402 ftiEwq
+0006b54b 9v)q[s
+0006bcf3 )#c~qL	
+0006befc $CWbCz
+0006bfa6 |?LU$I
+0006c907 WCW@{+
+0006d188 K\?h:J|j
+0006d8ed ,;*;%$>
+0006d993 |\uXvW>
+0006d9a0 306%aym
+0006e02d x3t%$I
+0006e17e b"<N^^
+0006e84f F8sY<5
+0006ea0b F/%L'L
+0006ea9b x9mwA|}FE
+0006ef3f iTXtXML:com.adobe.xmp
+0006ef59 <?xpacket begin="
+0006ef6d " id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.0-c001 79.c0204b2, 2023/02/09-06:26:14        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmp:CreatorTool="Adobe Photoshop 21.0 (Windows)" xmp:CreateDate="2023-05-17T12:15:09+08:00" xmp:ModifyDate="2023-05-31T15:37:04+08:00" xmp:MetadataDate="2023-05-31T15:37:04+08:00" xmpMM:InstanceID="xmp.iid:21028d21-562d-9444-849b-0956248a6c14" xmpMM:DocumentID="xmp.did:1977A6BED99811ED852FD37E8FDC3EFA" xmpMM:OriginalDocumentID="xmp.did:1977A6BED99811ED852FD37E8FDC3EFA" dc:format="image/png" photoshop:ColorMode="3"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:1977A6BBD99811ED852FD37E8FDC3EFA" stRef:documentID="xmp.did:1977A6BCD99811ED852FD37E8FDC3EFA"/> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:21028d21-562d-9444-849b-0956248a6c14" stEvt:when="2023-05-31T15:37:04+08:00" stEvt:softwareAgent="Adobe Photoshop 24.5 (Windows)" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>g
+0006f585 XDDDDDDN
+0006f5e3 XiDDDDDD
+0006f61a =?3U%q
+0006f6b9 @>ByDDDDDD
+0006f71b #"""""2
+0006f77e !""""""
+0006f7de <EDDDDD
+0006f837 """"""
+0006f887 r,"""""
+0006f8f4 rR[.\?
+0006f9b1 "?cq[=N]
+0006fa4b """"""osX
+0006fa85 XDDDDD
+0006fa93 t;~6e=@^
+0006fac5 EDDDDD
+0006fb6a ^-""""""
+0006fbaf  \DDDDDD
+0006fc3c oI%""""""
+0006fc90 J$4oZ-""""""
+0006fda0 Ez""""""
+000701ce 7~^Fs{
+00070333 iY+KF<
+0007071c 6{58v+
+000708f6 nf4o%3
+00070e6a |vqE< 
+00071373 zAh,x 
+000713d7 xKlI~"6X
+0007170f (""""""
+0007177a """"""r
+000717bd /&"""""29
+000717fc """"""
+00071820 YqW	1(
+0007183b XDDDDD
+00071842 A=vqXl3
+00071885 WZDDDDDd
+00071d62 .=	=lB>c+
+00071fd5 '""""""cz
+00071ffb _DDDDDDN
+0007216a XDDDDDDN
+00072175 Pp,""""""
+00072186 EDDDDD
+0007219a XDDDDDDN
+000721af EDDDDD
+0007220a zDDDDDD
+0007222a EDDDDD
+00072247 """"""2q
+00072267 """"""";
+00072287 4r9DDDDDD
+000722ab """"""2A
+000722c7 !""""""
+000723f6 CDDDDDD
+0007240f PDDDDDD
+00072421 @XDDDDDDN
+00072452 LDDDDDD
+0007246f @DDDDD
+00072490 """"""
+000724c9 !""""""
+00072512 DDDDDDDV
+000725b7 @DDDDD
+000725d1 EDDDDN
+000725ed V-""""
+00072605 uIDDDDDDD
+00072667 \DDDDDDH
+000726c3 EDDDDDd?	-
+000726f1 """"""
+0007271d """"""
+0007273e """"""2
+00072794 !"""""r
+00072822 """"""
+00072853 Nz,WP`
+0007285d XNDDDDD
+000728a5 r_hv%~
+000728be EDDd7n
+000729c2 DDDDDDDdJ
+000729fc ]DDDDDD
+00072a9c !""""""
+00072b02 :L[DDDDDDv
+00072b22 """"""2
+00072b30 eUDDDDDDd
+00072b4f qhIDDDDDDD
+00072b5d EDDDDD
+00072b8f EDDDDDd
+00072bb6 """"""
+00072c17 !""""""-l
+00072c7d @DDDdb
+00072c94 OK?MF)
+00072cc2 }G'iDDdZ
+00072dd4 h?+2U)
+00072f30 lX=48.
+0007305b [srbk[
+000733a5 ~o2l[U=
+0007368f rr-?/""""""2
+0007370e fX}<#n
+00073b14 v(O2PY
+00073bbd !""""""M	{
+00073bed <DDDDDD
+00073c36 """"""'
+00073c5b """"""
+00073d13 EDDDDDd<n
+00073d78 ,""""""G
+00073dd7 DDDDDD$c
+00073ea0 y9HiDDDDDD
+00073ecb DDDDDDd
+00073ef7 GDDDDD
+00073f1a ,""""""+
+00073f3e 0""""""'
+00073fa7 Pp,"""""
+00073fb0 %ebc1u
+00073fe6 DDDDDD
+00074008 4f9DDDDDD
+00074030 EDDDDDz
+00074052 4zvq+'
+00074084 V-""""""
+000740b5 %""""""
+000740df 4DDDDDD
+00074148 """"""2
+00074166 l\RDDDDDD
+0007419f w,J?u#
+000741a6 ADDDDDD
+00074216 $"""""
+00074250 DDDDDD
+0007428c <EDDDDDd]
+000742eb """"""
+00074352 ODDDDDD:
+000744e4 %DDDDDD
+00074561 """"""C:c
+000745b3 """""""}rm>
+000745bf up,""""""2
+000745f1 """"""r
+00074603 tEDDDDDD:
+00074627 sL48v=
+0007462e +""""""
+0007465d tEDDDDDD:
+00074683 BDDDDD
+000746b2 !"""""
+00074722 EDDDDD
+00074736 GDDDDDDdP
+00074e28 %"""""
+00074ee1 IDATXG
+0007507d <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+000750e4 <title>New Project</title>
+00075100 <style>
+0007510a .s0 { fill: #ffffff } 
+00075122 </style>
+0007512c <circle id="Shape 1" class="s0" cx="50.5" cy="50.5" r="45.5"/>
+0007516b </svg>
+000751a7 IDATXG
+00075379 Pdq*l|
+00075477 .&dnJ3
+000755af {XwvVC
+0007560e =8"~| 
+0007568a <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+000756f1 <title>half-cross-upper-svg</title>
+00075716 <style>
+00075720 .s0 { fill: #ffffff } 
+00075738 </style>
+00075742 <path id="Shape 1" class="s0" d="m13 44c0 0-1.8-2.1 0-4 1.8-1.9 8-8 8-8 0 0 1.1-2.1 3.8 0.4 2.7 2.5 25.2 24.7 25.2 24.7l25.2-25.1c0 0 1.7-1.5 3.1-0.9 3.1 1.4 9 8.4 9 8.4 0 0 2 1.3-1.4 5.3-1.2 1.5-20 20.9-31.1 30.9-2.1 1.9-3.4 2.3-4.8 2.3-1.4 0-4.4-1.6-6-3.2-10.2-9.7-31-30.8-31-30.8z"/>
+00075861 </svg>
+0007586b <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+000758d2 <title>half-cross-upper-svg</title>
+000758f7 <style>
+00075901 .s0 { fill: #ffffff } 
+00075919 </style>
+00075923 <path id="Shape 1" class="s0" d="m87 64c0 0 1.8 2.1 0 4-1.8 1.9-8 8-8 8 0 0-1.1 2.1-3.8-0.4-2.7-2.5-25.2-24.7-25.2-24.7l-25.2 25.1c0 0-1.7 1.5-3.1 0.9-3.1-1.4-9-8.4-9-8.4 0 0-2-1.3 1.4-5.3 1.2-1.5 20-20.9 31.1-30.9 2.1-1.9 3.4-2.3 4.8-2.3 1.4 0 4.4 1.6 6 3.2 10.2 9.7 31 30.8 31 30.8z"/>
+00075a43 </svg>
+00075a7e nIDATx^
+00075e05 zH\UJm
+0007621a H8=ok`
+0007650c _S)Hmx:
+000765ed Exj>%@
+00076c04 Yw~yIN
+00076cd8 ,F9{%(
+00076f46 $0a'yt}R
+00077205 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+0007726c <title>half-cross-upper-svg</title>
+00077291 <style>
+0007729b .s0 { fill: #c0c0c0 } 
+000772b3 </style>
+000772bd <path id="Shape 1" class="s0" d="m87 64c0 0 1.8 2.1 0 4-1.8 1.9-8 8-8 8 0 0-1.1 2.1-3.8-0.4-2.7-2.5-25.2-24.7-25.2-24.7l-25.2 25.1c0 0-1.7 1.5-3.1 0.9-3.1-1.4-9-8.4-9-8.4 0 0-2-1.3 1.4-5.3 1.2-1.5 20-20.9 31.1-30.9 2.1-1.9 3.4-2.3 4.8-2.3 1.4 0 4.4 1.6 6 3.2 10.2 9.7 31 30.8 31 30.8z"/>
+000773dd </svg>
+000773e6 a<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+0007744e <title>triangle-down-svg</title>
+00077470 <style>
+0007747a .s0 { fill: #c0c0c0 } 
+00077492 </style>
+0007749c <path id="Shape 2" class="s0" d="m36 75.6v-51.1c0 0-0.2-3.7 2.5-0.6 2.7 3 24.1 24.7 24.1 24.7 0 0 1.4 1.3 0.1 2.7-1.4 1.5-24.6 24.6-24.6 24.6 0 0-2.1 2.7-2.1-0.3z"/>
+00077542 </svg>
+0007754b k<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+000775b3 <title>cross-svg</title>
+000775cd <style>
+000775d7 .s0 { fill: #ffffff } 
+000775ef </style>
+000775f9 <path id="Shape 1" class="s0" d="m41.7 51.3l-17.1-17.7c0 0-1.3-1.5 0-2.8 1.2-1.3 5.5-5.5 5.5-5.5 0 0 0.9-1.8 2.8 0 1.8 1.7 17.3 17.3 17.3 17.3l16.9-17.8c0 0 0.7-1.7 2.7-0.2 1.8 1.5 6.6 6.6 6.6 6.6 0 0 1.4 0.6-1 3.2-2.5 2.6-16.6 16.9-16.6 16.9l17 16.2c0 0 1.8 0.9 0 2.8-1.8 1.8-6.1 6.1-6.1 6.1 0 0-1.1 1.3-2.9-0.6-1.9-1.8-16.4-16.4-16.4-16.4l-16.4 16.5c0 0-2 2-3.9-0.1-1.9-2.1-5.2-5.9-5.2-5.9 0 0-0.8-1.4 0-2.4 0.8-1 16.8-16.2 16.8-16.2z"/>
+000777b1 </svg>
+000777ba `<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+00077822 <title>triangle-down-svg</title>
+00077844 <style>
+0007784e .s0 { fill: #c0c0c0 } 
+00077866 </style>
+00077870 <path id="Shape 2" class="s0" d="m24.4 36h51.1c0 0 3.7-0.2 0.6 2.5-3 2.7-24.7 24.1-24.7 24.1 0 0-1.3 1.4-2.7 0.1-1.5-1.4-24.6-24.6-24.6-24.6 0 0-2.7-2.1 0.3-2.1z"/>
+00077915 </svg>
+00077951 IDATx^
+00078000 EMg>r}
+00078aa7 \1:*8#C
+00078ba0 iTXtXML:com.adobe.xmp
+00078bba <?xpacket begin="
+00078bce " id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.0-c001 79.c0204b2, 2023/02/09-06:26:14        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmp:CreatorTool="Adobe Photoshop 24.5 (Windows)" xmp:CreateDate="2023-08-28T11:06:53+08:00" xmp:ModifyDate="2023-08-28T11:14:09+08:00" xmp:MetadataDate="2023-08-28T11:14:09+08:00" dc:format="image/png" photoshop:ColorMode="3" xmpMM:InstanceID="xmp.iid:f8cea1cb-7c18-b643-8dda-b6ae6b282619" xmpMM:DocumentID="xmp.did:dee0891c-1018-544f-a5c7-9985cd2053de" xmpMM:OriginalDocumentID="xmp.did:dee0891c-1018-544f-a5c7-9985cd2053de"> <xmpMM:History> <rdf:Seq> <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:dee0891c-1018-544f-a5c7-9985cd2053de" stEvt:when="2023-08-28T11:06:53+08:00" stEvt:softwareAgent="Adobe Photoshop 24.5 (Windows)"/> <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:f8cea1cb-7c18-b643-8dda-b6ae6b282619" stEvt:when="2023-08-28T11:14:09+08:00" stEvt:softwareAgent="Adobe Photoshop 24.5 (Windows)" stEvt:changed="/"/> </rdf:Seq> </xmpMM:History> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>
+000792df 0!!air
+000793b1 G,SPDN
+000795d7 \^QuE)@@
+0007977e hnjD[[
+000798b6 hlh@Ue%
+00079951 (.,DSS#
+00079a38 1*?? _4
+00079a8e /tQ|J)
+00079ae5 >LHLDbR
+00079bae W`JH@JJ
+00079ced \wgg'JKJP^Z
+00079d29 deg#33
+00079d40 MMM(<}
+00079e43 7(+)ESs
+00079e9d ?JAA_ W
+0007a02f N:::p`
+0007a166 nGJJ*V
+0007a2c3 #^7`Dw
+0007a956 HOg@HO
+0007aa20 L[Nn.:;:P\T
+0007ac5b q(+-E]]]
+0007ac74 >]V	,X
+0007ad4d J)RRSq
+0007af8f cQRT$z
+0007b2f1 '@)Ejj
+0007b4ed 1$SJQVV
+0007bc9f >TUTDt
+0007bed0 _@)ENN
+0007bfa4 R$&&EtJ0
+0007bfbe 7_}%yO
+0007c164 KFrrsU/
+0007c342 1pv34V
+0007c34b rhjjBQa
+0007c462 s}Sg<|u
+0007c5ea g$$&FU
+0007c7d1 LKKKSdx
+0007caf0 J)RSR%
+0007ccd2 4MW,'n
+0007cce6 G{{;X5!
+0007cd2f ;')$!!
+0007ce0e !bs;_]
+0007cee3 0C^;@nnn
+0007cf28 Ccc#jk
+0007cfda 0|FB<'
+0007d05a LonnB}mm
+0007d076 |ddfzXB
+0007d2f1 T2Oqa!
+0007d40d &UlE:_
+0007ddfc FBbbo7
+0007def0 2hkmEeEE
+0007e068 ^laxprV
+0007e23a _&UU9N
+0007e26d ,jkjz|
+0007e40f N'RRRq
+0007e5b4 ']Y95N:,
+0007e5ce Aff&&O
+0007e905 (-)Auu5r
+0007ee8c (/+EG{;
+0007ef40 ().BeE%
+0007effb hnlD}}
+0007f040 deecHn
+0007f138 u`%1)	S
+0007f3a6 $''#!1
+0007f3b0 HMKCVV6R
+0007f70f <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+0007f776 <title>half-cross-upper-svg</title>
+0007f79b <style>
+0007f7a5 .s0 { fill: #c0c0c0 } 
+0007f7bd </style>
+0007f7c7 <path id="Shape 1" class="s0" d="m13 44c0 0-1.8-2.1 0-4 1.8-1.9 8-8 8-8 0 0 1.1-2.1 3.8 0.4 2.7 2.5 25.2 24.7 25.2 24.7l25.2-25.1c0 0 1.7-1.5 3.1-0.9 3.1 1.4 9 8.4 9 8.4 0 0 2 1.3-1.4 5.3-1.2 1.5-20 20.9-31.1 30.9-2.1 1.9-3.4 2.3-4.8 2.3-1.4 0-4.4-1.6-6-3.2-10.2-9.7-31-30.8-31-30.8z"/>
+0007f8e6 </svg>
+0007f8f0 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159 40" width="159" height="40">
+0007f955 <title>New Project</title>
+0007f971 <style>
+0007f97b .s0 { fill: #0e86ff } 
+0007f994 .s1 { fill: #0c7dee } 
+0007f9ac </style>
+0007f9b6 <g id="Folder 1">
+0007f9ca <path id="Shape 1" class="s0" d="m119.8-39.8l20.5 20.5-79.2 79.2-20.5-20.5z"/>
+0007fa1b <path id="Shape 1 copy" class="s1" d="m140.3-20.3l20.5 20.5-79.2 79.2-20.5-20.5z"/>
+0007fa76 <g id="Folder 1 copy">
+0007fa8f <path id="Shape 1" class="s0" d="m199.8-39.8l20.5 20.5-79.2 79.2-20.5-20.5z"/>
+0007fae0 <path id="Shape 1 copy" class="s1" d="m220.3-20.3l20.5 20.5-79.2 79.2-20.5-20.5z"/>
+0007fb3b <g id="Folder 1 copy 2">
+0007fb56 <path id="Shape 1" class="s0" d="m39.8-39.8l20.5 20.5-79.2 79.2-20.5-20.5z"/>
+0007fba6 <path id="Shape 1 copy" class="s1" d="m60.3-20.3l20.5 20.5-79.2 79.2-20.5-20.5z"/>
+0007fbff </svg>
+0007fc3a TIDATXG
+0007fcee (ehcj1{y#
+0007fdc0 '*qu}Q
+0007fed9 IDATx^
+0008043c r.	Xx6
+00080672 ]')a=>
+00080968 5,M$%Y^>g`
+00080bd4 TiIC$=A 
+00080c5d K61hc&
+00080ccf 7qIOtX
+00080e8f -)Gbb]z
+00080fe9 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+00081050 <title>New Project</title>
+0008106c <defs>
+00081075 <image  width="100" height="100" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkAQMAAABKLAcXAAAAAXNSR0IB2cksfwAAAANQTFRFDw8PuwF7uQAAABRJREFUeJxjYBgFo2AUjIJRQE8AAAV4AAEI/UWDAAAAAElFTkSuQmCC"/>
+0008114d </defs>
+00081156 <style>
+00081160 .s0 { fill: #0e86ff } 
+00081178 </style>
+00081182 <use id="Background" href="#img1" x="0" y="0"/>
+000811b3 <path id="Shape 1" class="s0" d="m42 71l-21-18c0 0-2.2-1.6 0-4 2.2-2.4 5-5 5-5 0 0 1.2-1.6 3 0 1.8 1.6 15.2 13.3 15.2 13.3l25.8-27.9c0 0 0.8-1.3 2-0.4 1.2 0.9 7 6 7 6 0 0 1.5 1-0.7 3.2-2.2 2.1-30.3 32.8-30.3 32.8 0 0-3 2.6-6 0z"/>
+0008129a </svg>
+000812a3 `<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+0008130b <title>triangle-down-svg</title>
+0008132d <style>
+00081337 .s0 { fill: #ffffff } 
+0008134f </style>
+00081359 <path id="Shape 2" class="s0" d="m24.4 36h51.1c0 0 3.7-0.2 0.6 2.5-3 2.7-24.7 24.1-24.7 24.1 0 0-1.3 1.4-2.7 0.1-1.5-1.4-24.6-24.6-24.6-24.6 0 0-2.7-2.1 0.3-2.1z"/>
+000813fe </svg>
+00081408 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+0008146f <title>New Project</title>
+0008148b <defs>
+00081494 <image  width="100" height="100" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkAQMAAABKLAcXAAAAAXNSR0IB2cksfwAAAANQTFRFDw8PuwF7uQAAABRJREFUeJxjYBgFo2AUjIJRQE8AAAV4AAEI/UWDAAAAAElFTkSuQmCC"/>
+0008156c </defs>
+00081575 <style>
+0008157e </style>
+00081588 <use id="Background" href="#img1" x="0" y="0"/>
+000815b8 </svg>
+000815f4 IDATXG
+000816ab k<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+00081713 <title>cross-svg</title>
+0008172d <style>
+00081737 .s0 { fill: #c0c0c0 } 
+0008174f </style>
+00081759 <path id="Shape 1" class="s0" d="m41.7 51.3l-17.1-17.7c0 0-1.3-1.5 0-2.8 1.2-1.3 5.5-5.5 5.5-5.5 0 0 0.9-1.8 2.8 0 1.8 1.7 17.3 17.3 17.3 17.3l16.9-17.8c0 0 0.7-1.7 2.7-0.2 1.8 1.5 6.6 6.6 6.6 6.6 0 0 1.4 0.6-1 3.2-2.5 2.6-16.6 16.9-16.6 16.9l17 16.2c0 0 1.8 0.9 0 2.8-1.8 1.8-6.1 6.1-6.1 6.1 0 0-1.1 1.3-2.9-0.6-1.9-1.8-16.4-16.4-16.4-16.4l-16.4 16.5c0 0-2 2-3.9-0.1-1.9-2.1-5.2-5.9-5.2-5.9 0 0-0.8-1.4 0-2.4 0.8-1 16.8-16.2 16.8-16.2z"/>
+00081911 </svg>
+0008191b <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+00081982 <title>New Project</title>
+0008199e <style>
+000819a8 .s0 { fill: #0f0f0f } 
+000819c0 </style>
+000819ca <circle id="Shape 1" class="s0" cx="50.5" cy="50.5" r="45.5"/>
+00081a09 </svg>
+00081a12 a<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+00081a7a <title>triangle-down-svg</title>
+00081a9c <style>
+00081aa6 .s0 { fill: #ffffff } 
+00081abe </style>
+00081ac8 <path id="Shape 2" class="s0" d="m36 75.6v-51.1c0 0-0.2-3.7 2.5-0.6 2.7 3 24.1 24.7 24.1 24.7 0 0 1.4 1.3 0.1 2.7-1.4 1.5-24.6 24.6-24.6 24.6 0 0-2.1 2.7-2.1-0.3z"/>
+00081b6e </svg>
+00081baa IDATXG
+00081c98 ,j))I[
+00081e3f _&!Cl$
+000822b5 r\%1,.1
+0008230f S`oHvs=
+00082b38 LoadingWidget
+00082b90 LoadingWidget
+00082bf8 SingleApplication
+00082c0a newLocalConnection
+00082c88 SingleApplication
+00082d08 OtaUpgradeWorker
+00082d19 upgradeCompleted
+00082d2b upgradeFailed
+00082d3f preparationCompleted
+00082d54 workFinished
+00082d61 uiSignalRequested
+00082d78 message
+00082d80 startUpgrade
+00082ef8 HidOtaUpgradeWorker
+00082f0c stageChanged
+00082f20 progressChanged
+00082f30 current
+00082f3e blocks
+00082f45 upgradeCompleted
+00082f56 requestedBytes
+00082f65 upgradeFailed
+00082f79 startUpgrade
+00083190 MainView
+00083199 sigSetUI
+000831a8 message
+000831b0 onSelectFirmwareClicked
+000831c8 onUpdateFirmwareClicked
+000831e0 onUISignalReceived
+00083320 OtaUpgradeWorker
+00083340 QString
+000833b8 HidOtaUpgradeWorker
+00083418 MainView
+00085980 bad allocation
+00087c24 .text$di
+00087c38 .text$mn
+00087c4c .text$mn$00
+00087c60 .text$x
+00087c70 .text$yd
+00087c84 .idata$5
+00087c98 .00cfg
+00087ca8 .CRT$XCA
+00087cbc .CRT$XCAA
+00087cd0 .CRT$XCU
+00087ce4 .CRT$XCZ
+00087cf8 .CRT$XIA
+00087d0c .CRT$XIAA
+00087d20 .CRT$XIAC
+00087d34 .CRT$XIZ
+00087d48 .CRT$XLA
+00087d5c .CRT$XLZ
+00087d70 .CRT$XPA
+00087d84 .CRT$XPZ
+00087d98 .CRT$XTA
+00087dac .CRT$XTZ
+00087dc0 .rdata
+00087dd0 .rdata$T
+00087de4 .rdata$r
+00087df8 .rdata$voltmd
+00087e10 .rdata$zzzdbg
+00087e28 .rtc$IAA
+00087e3c .rtc$IZZ
+00087e50 .rtc$TAA
+00087e64 .rtc$TZZ
+00087e98 .tls$ZZZ
+00087eac .xdata
+00087ebc .xdata$x
+00087ed0 .idata$2
+00087ee4 .idata$3
+00087ef8 .idata$4
+00087f0c .idata$6
+00087f30 .data$r
+00087f40 .data$rs
+00087f64 .pdata
+00087f74 .rsrc$01
+00087f88 .rsrc$02
+0008944a 8z:j<n>p@
+000899a9 ,d* .00
+000899bf 6&86:68
+000899cb *`,`<x* .
+00089f5a , ("l$
+00089f64 ,&((l*
+00089f6e ,>*@pBlD
+00089f96 (6r8p:j<
+00089fcb ,6.n0l2Z4
+0008aa04 $$&B*.,$.\*^0
+0008ac2a $ \"Z$
+0008ac44 $ b"Z$
+0008b098 $$(^.n0
+0008b0a4 (b4r6`8j:
+0008b0b0 $$(^.n0
+0008b0ba $"(P$@(**Z,
+0008b0c8 $$(^.n0
+0008b0da >f$$(^.n0
+0008b0ea $$B^DtF8H
+0008b0f9 ((.^0j2
+0008b109 (*$n((.^0j2
+0008b3ca $&&(*D,
+0008b3d2 "F (.r 
+0008b9d0 &0(t*j,
+0008b9dd 0 t"j$
+0008be92 b((.H022
+0008be9e p4&6 4F
+0008beb1 D0FBHDJ
+0008e5ea midiOutGetNumDevs
+0008e5fe midiOutGetDevCapsA
+0008e614 midiOutOpen
+0008e622 midiOutClose
+0008e632 midiOutPrepareHeader
+0008e64a midiOutUnprepareHeader
+0008e664 midiOutShortMsg
+0008e676 midiOutLongMsg
+0008e688 midiInGetNumDevs
+0008e69c midiInGetDevCapsA
+0008e6b0 midiInOpen
+0008e6be midiInClose
+0008e6cc midiInPrepareHeader
+0008e6e2 midiInUnprepareHeader
+0008e6fa midiInAddBuffer
+0008e70c midiInStart
+0008e71a midiInStop
+0008e728 midiInReset
+0008e734 WINMM.dll
+0008e740 HidP_GetCaps
+0008e750 HidD_GetAttributes
+0008e766 HidD_GetHidGuid
+0008e778 HidD_GetPreparsedData
+0008e790 HidD_FreePreparsedData
+0008e7a8 HID.DLL
+0008e7b2 SetupDiDestroyDeviceInfoList
+0008e7d2 SetupDiEnumDeviceInterfaces
+0008e7f0 SetupDiGetDeviceInterfaceDetailW
+0008e814 SetupDiGetClassDevsW
+0008e82a SETUPAPI.dll
+0008e83a BCryptGenRandom
+0008e84a bcrypt.dll
+0008e858 EnterCriticalSection
+0008e870 LeaveCriticalSection
+0008e888 InitializeCriticalSectionAndSpinCount
+0008e8b0 DeleteCriticalSection
+0008e8d0 CreateFileW
+0008e8de ReadFile
+0008e8ea WriteFile
+0008e8f6 CloseHandle
+0008e904 GetLastError
+0008e914 GetOverlappedResult
+0008e92a CancelIoEx
+0008e938 WaitForSingleObject
+0008e94e CreateEventW
+0008e95e LocalFree
+0008e96a FormatMessageW
+0008e97a KERNEL32.dll
+0008e98a ?setFixedSize@QWidget@@QEAAXHH@Z
+0008e9ae ?setCursor@QWidget@@QEAAXAEBVQCursor@@@Z
+0008e9da ?setWindowTitle@QWidget@@QEAAXAEBVQString@@@Z
+0008ea0a ?setStyleSheet@QWidget@@QEAAXAEBVQString@@@Z
+0008ea3a ?setWindowIcon@QWidget@@QEAAXAEBVQIcon@@@Z
+0008ea68 ??0QDialog@@QEAA@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z
+0008eaa8 ??1QDialog@@UEAA@XZ
+0008eabe ?exec@QDialog@@UEAAHXZ
+0008ead8 ?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
+0008eb28 ??0QVBoxLayout@@QEAA@PEAVQWidget@@@Z
+0008eb50 ??1QVBoxLayout@@UEAA@XZ
+0008eb6a ?clicked@QAbstractButton@@QEAAX_N@Z
+0008eb90 ??1QPushButton@@UEAA@XZ
+0008ebaa ??1QLabel@@UEAA@XZ
+0008ebc0 ?information@QMessageBox@@SA?AW4StandardButton@1@PEAVQWidget@@AEBVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z
+0008ec40 ?metaObject@QLabel@@UEBAPEBUQMetaObject@@XZ
+0008ec6e ?qt_metacast@QLabel@@UEAAPEAXPEBD@Z
+0008ec94 ?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+0008ecd0 ?sizeHint@QLabel@@UEBA?AVQSize@@XZ
+0008ecf6 ?minimumSizeHint@QLabel@@UEBA?AVQSize@@XZ
+0008ed22 ?heightForWidth@QLabel@@UEBAHH@Z
+0008ed46 ?event@QLabel@@MEAA_NPEAVQEvent@@@Z
+0008ed6c ?keyPressEvent@QLabel@@MEAAXPEAVQKeyEvent@@@Z
+0008ed9c ?paintEvent@QLabel@@MEAAXPEAVQPaintEvent@@@Z
+0008edcc ?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z
+0008edf8 ?mousePressEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z
+0008ee2c ?mouseMoveEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z
+0008ee60 ?mouseReleaseEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z
+0008ee96 ?contextMenuEvent@QLabel@@MEAAXPEAVQContextMenuEvent@@@Z
+0008eed2 ?focusInEvent@QLabel@@MEAAXPEAVQFocusEvent@@@Z
+0008ef04 ?focusOutEvent@QLabel@@MEAAXPEAVQFocusEvent@@@Z
+0008ef36 ?focusNextPrevChild@QLabel@@MEAA_N_N@Z
+0008ef5e p	?devType@QWidget@@UEBAHXZ
+0008ef7c ?setVisible@QWidget@@UEAAX_N@Z
+0008ef9e ?heightForWidth@QWidget@@UEBAHH@Z
+0008efc2 ?hasHeightForWidth@QWidget@@UEBA_NXZ
+0008efea ?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ
+0008f01c ?event@QWidget@@MEAA_NPEAVQEvent@@@Z
+0008f044 ?mousePressEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
+0008f07a ?mouseReleaseEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
+0008f0b2 ?mouseDoubleClickEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
+0008f0ee ?mouseMoveEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z
+0008f121  ?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z
+0008f152 ?keyReleaseEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z
+0008f186 ?focusInEvent@QWidget@@MEAAXPEAVQFocusEvent@@@Z
+0008f1b8 ?focusOutEvent@QWidget@@MEAAXPEAVQFocusEvent@@@Z
+0008f1ec ?enterEvent@QWidget@@MEAAXPEAVQEnterEvent@@@Z
+0008f21c ?leaveEvent@QWidget@@MEAAXPEAVQEvent@@@Z
+0008f248 ?paintEvent@QWidget@@MEAAXPEAVQPaintEvent@@@Z
+0008f278 ?moveEvent@QWidget@@MEAAXPEAVQMoveEvent@@@Z
+0008f2a6 ?resizeEvent@QWidget@@MEAAXPEAVQResizeEvent@@@Z
+0008f2d8 ?closeEvent@QWidget@@MEAAXPEAVQCloseEvent@@@Z
+0008f308 ?contextMenuEvent@QWidget@@MEAAXPEAVQContextMenuEvent@@@Z
+0008f344 ?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z
+0008f376 ?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z
+0008f3a8 ?dragEnterEvent@QWidget@@MEAAXPEAVQDragEnterEvent@@@Z
+0008f3e0 ?dragMoveEvent@QWidget@@MEAAXPEAVQDragMoveEvent@@@Z
+0008f416 ?dragLeaveEvent@QWidget@@MEAAXPEAVQDragLeaveEvent@@@Z
+0008f44e ?dropEvent@QWidget@@MEAAXPEAVQDropEvent@@@Z
+0008f47c ?showEvent@QWidget@@MEAAXPEAVQShowEvent@@@Z
+0008f4aa ?hideEvent@QWidget@@MEAAXPEAVQHideEvent@@@Z
+0008f4d8 ?nativeEvent@QWidget@@MEAA_NAEBVQByteArray@@PEAXPEA_J@Z
+0008f512 ?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z
+0008f53e ?metric@QWidget@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z
+0008f57c ?initPainter@QWidget@@MEBAXPEAVQPainter@@@Z
+0008f5aa ?redirected@QWidget@@MEBAPEAVQPaintDevice@@PEAVQPoint@@@Z
+0008f5e6 ?sharedPainter@QWidget@@MEBAPEAVQPainter@@XZ
+0008f616 ?inputMethodEvent@QWidget@@MEAAXPEAVQInputMethodEvent@@@Z
+0008f652 ?inputMethodQuery@QWidget@@UEBA?AVQVariant@@W4InputMethodQuery@Qt@@@Z
+0008f69a ?focusNextPrevChild@QWidget@@MEAA_N_N@Z
+0008f6c4 ?qt_metacast@QDialog@@UEAAPEAXPEBD@Z
+0008f6ec ?qt_metacall@QDialog@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+0008f728 ?setVisible@QDialog@@UEAAX_N@Z
+0008f74a ?sizeHint@QDialog@@UEBA?AVQSize@@XZ
+0008f770 ?minimumSizeHint@QDialog@@UEBA?AVQSize@@XZ
+0008f79e ?open@QDialog@@UEAAXXZ
+0008f7b8 ?done@QDialog@@UEAAXH@Z
+0008f7d2 ?accept@QDialog@@UEAAXXZ
+0008f7ee ?reject@QDialog@@UEAAXXZ
+0008f80a ?keyPressEvent@QDialog@@MEAAXPEAVQKeyEvent@@@Z
+0008f83c ?closeEvent@QDialog@@MEAAXPEAVQCloseEvent@@@Z
+0008f86c ?showEvent@QDialog@@MEAAXPEAVQShowEvent@@@Z
+0008f89a ?resizeEvent@QDialog@@MEAAXPEAVQResizeEvent@@@Z
+0008f8cc ?contextMenuEvent@QDialog@@MEAAXPEAVQContextMenuEvent@@@Z
+0008f908 ?eventFilter@QDialog@@MEAA_NPEAVQObject@@PEAVQEvent@@@Z
+0008f942 ?checkStateSet@QAbstractButton@@MEAAXXZ
+0008f96c ?nextCheckState@QAbstractButton@@MEAAXXZ
+0008f998 ?keyReleaseEvent@QAbstractButton@@MEAAXPEAVQKeyEvent@@@Z
+0008f9d4 ?mousePressEvent@QAbstractButton@@MEAAXPEAVQMouseEvent@@@Z
+0008fa12 ?mouseReleaseEvent@QAbstractButton@@MEAAXPEAVQMouseEvent@@@Z
+0008fa52 ?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z
+0008fa86 ?timerEvent@QAbstractButton@@MEAAXPEAVQTimerEvent@@@Z
+0008fabe ?initStyleOption@QFrame@@MEBAXPEAVQStyleOptionFrame@@@Z
+0008faf8 ?geometry@QLayout@@UEBA?AVQRect@@XZ
+0008fb1e ?indexOf@QLayout@@UEBAHPEBVQLayoutItem@@@Z
+0008fb4c ?indexOf@QLayout@@UEBAHPEBVQWidget@@@Z
+0008fb76 ?isEmpty@QLayout@@UEBA_NXZ
+0008fb94 ?controlTypes@QLayout@@UEBA?AV?$QFlags@W4ControlType@QSizePolicy@@@@XZ
+0008fbde ?replaceWidget@QLayout@@UEAAPEAVQLayoutItem@@PEAVQWidget@@0V?$QFlags@W4FindChildOption@Qt@@@@@Z
+0008fc40 ?layout@QLayout@@UEAAPEAV1@XZ
+0008fc60 ?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z
+0008fc90 ?metaObject@QPushButton@@UEBAPEBUQMetaObject@@XZ
+0008fcc4 ?qt_metacast@QPushButton@@UEAAPEAXPEBD@Z
+0008fcf0 ?qt_metacall@QPushButton@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+0008fd30 ?sizeHint@QPushButton@@UEBA?AVQSize@@XZ
+0008fd5a ?minimumSizeHint@QPushButton@@UEBA?AVQSize@@XZ
+0008fd8c ?event@QPushButton@@MEAA_NPEAVQEvent@@@Z
+0008fdb8 ?paintEvent@QPushButton@@MEAAXPEAVQPaintEvent@@@Z
+0008fdec ?keyPressEvent@QPushButton@@MEAAXPEAVQKeyEvent@@@Z
+0008fe22 ?focusInEvent@QPushButton@@MEAAXPEAVQFocusEvent@@@Z
+0008fe58 ?focusOutEvent@QPushButton@@MEAAXPEAVQFocusEvent@@@Z
+0008fe90 ?mouseMoveEvent@QPushButton@@MEAAXPEAVQMouseEvent@@@Z
+0008fec8 ?initStyleOption@QPushButton@@MEBAXPEAVQStyleOptionButton@@@Z
+0008ff08 ?hitButton@QPushButton@@MEBA_NAEBVQPoint@@@Z
+0008ff37  ?widget@QLayoutItem@@UEBAPEAVQWidget@@XZ
+0008ff64 ?spacerItem@QLayoutItem@@UEAAPEAVQSpacerItem@@XZ
+0008ff98 ?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z
+0008ffc8 ?spacing@QBoxLayout@@UEBAHXZ
+0008ffe8 ?setSpacing@QBoxLayout@@UEAAXH@Z
+0009000c ?sizeHint@QBoxLayout@@UEBA?AVQSize@@XZ
+00090036 ?minimumSize@QBoxLayout@@UEBA?AVQSize@@XZ
+00090062 ?maximumSize@QBoxLayout@@UEBA?AVQSize@@XZ
+0009008e ?hasHeightForWidth@QBoxLayout@@UEBA_NXZ
+000900b8 ?heightForWidth@QBoxLayout@@UEBAHH@Z
+000900e0 ?minimumHeightForWidth@QBoxLayout@@UEBAHH@Z
+0009010e ?expandingDirections@QBoxLayout@@UEBA?AV?$QFlags@W4Orientation@Qt@@@@XZ
+00090158 ?invalidate@QBoxLayout@@UEAAXXZ
+0009017a ?itemAt@QBoxLayout@@UEBAPEAVQLayoutItem@@H@Z
+000901aa ?takeAt@QBoxLayout@@UEAAPEAVQLayoutItem@@H@Z
+000901da ?count@QBoxLayout@@UEBAHXZ
+000901f8 ?setGeometry@QBoxLayout@@UEAAXAEBVQRect@@@Z
+00090226 ?metaObject@QVBoxLayout@@UEBAPEBUQMetaObject@@XZ
+0009025a ?qt_metacast@QVBoxLayout@@UEAAPEAXPEBD@Z
+00090286 ?qt_metacall@QVBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+000902c6 ?staticMetaObject@QAbstractButton@@2UQMetaObject@@B
+000902fc ??0QSizePolicy@@QEAA@W4Policy@0@0W4ControlType@0@@Z
+00090332 ?setHeightForWidth@QSizePolicy@@QEAAX_N@Z
+0009035e ?hasHeightForWidth@QSizePolicy@@QEBA_NXZ
+0009038a ?setHorizontalStretch@QSizePolicy@@QEAAXH@Z
+000903b8 ?setVerticalStretch@QSizePolicy@@QEAAXH@Z
+000903e4 ??0QWidget@@QEAA@PEAV0@V?$QFlags@W4WindowType@Qt@@@@@Z
+0009041e ??1QWidget@@UEAA@XZ
+00090434 ?setEnabled@QWidget@@QEAAX_N@Z
+00090455  ?width@QWidget@@QEBAHXZ
+00090470 ?height@QWidget@@QEBAHXZ
+0009048c ?setMinimumSize@QWidget@@QEAAXAEBVQSize@@@Z
+000904ba ?setFont@QWidget@@QEAAXAEBVQFont@@@Z
+000904e2 ?setWindowOpacity@QWidget@@QEAAXN@Z
+00090508 ?setToolTip@QWidget@@QEAAXAEBVQString@@@Z
+00090534 ?setLayoutDirection@QWidget@@QEAAXW4LayoutDirection@Qt@@@Z
+00090572 ?show@QWidget@@QEAAXXZ
+0009058c ?hide@QWidget@@QEAAXXZ
+000905a6 ?raise@QWidget@@QEAAXXZ
+000905c0 ?resize@QWidget@@QEAAXHH@Z
+000905de ?setGeometry@QWidget@@QEAAXHHHH@Z
+00090602 ?setGeometry@QWidget@@QEAAXAEBVQRect@@@Z
+0009062e ?sizePolicy@QWidget@@QEBA?AVQSizePolicy@@XZ
+0009065c ?setSizePolicy@QWidget@@QEAAXVQSizePolicy@@@Z
+0009068c ?setLayout@QWidget@@QEAAXPEAVQLayout@@@Z
+000906b8 ?setParent@QWidget@@QEAAXPEAV1@@Z
+000906dc ?setWindowFlags@QWidget@@QEAAXV?$QFlags@W4WindowType@Qt@@@@@Z
+0009071c ?setAttribute@QWidget@@QEAAXW4WidgetAttribute@Qt@@_N@Z
+00090756 ?setAutoFillBackground@QWidget@@QEAAX_N@Z
+00090782 ?setSizeGripEnabled@QDialog@@QEAAX_N@Z
+000907ac ?setModal@QDialog@@QEAAX_N@Z
+000907cc ?setAlignment@QLayoutItem@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
+00090812 ?setContentsMargins@QLayout@@QEAAXHHHH@Z
+0009083e ?removeWidget@QLayout@@QEAAXPEAVQWidget@@@Z
+0009086c ?setText@QAbstractButton@@QEAAXAEBVQString@@@Z
+0009089e ?setIconSize@QAbstractButton@@QEAAXAEBVQSize@@@Z
+000908d2 ??0QPushButton@@QEAA@PEAVQWidget@@@Z
+000908fa ?setFlat@QPushButton@@QEAAX_N@Z
+0009091c ??0QLabel@@QEAA@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z
+0009095c ?setAlignment@QLabel@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z
+0009099c ?setText@QLabel@@QEAAXAEBVQString@@@Z
+000909c4 ?setMovie@QLabel@@QEAAXPEAVQMovie@@@Z
+000909ec ?getOpenFileName@QFileDialog@@SA?AVQString@@PEAVQWidget@@AEBV2@11PEAV2@V?$QFlags@W4Option@QFileDialog@@@@@Z
+00090a5a ??0QGroupBox@@QEAA@PEAVQWidget@@@Z
+00090a80 ??1QGroupBox@@UEAA@XZ
+00090a98 ?setTitle@QGroupBox@@QEAAXAEBVQString@@@Z
+00090ac4 ?metaObject@QWidget@@UEBAPEBUQMetaObject@@XZ
+00090af4 ?qt_metacast@QWidget@@UEAAPEAXPEBD@Z
+00090b1c ?qt_metacall@QWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+00090b58 ?sizeHint@QWidget@@UEBA?AVQSize@@XZ
+00090b7e ?minimumSizeHint@QWidget@@UEBA?AVQSize@@XZ
+00090bac ?keyPressEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z
+00090bde ?metaObject@QGroupBox@@UEBAPEBUQMetaObject@@XZ
+00090c10 ?qt_metacast@QGroupBox@@UEAAPEAXPEBD@Z
+00090c3a ?qt_metacall@QGroupBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+00090c78 ?minimumSizeHint@QGroupBox@@UEBA?AVQSize@@XZ
+00090ca8 ?event@QGroupBox@@MEAA_NPEAVQEvent@@@Z
+00090cd2 ?childEvent@QGroupBox@@MEAAXPEAVQChildEvent@@@Z
+00090d04 ?resizeEvent@QGroupBox@@MEAAXPEAVQResizeEvent@@@Z
+00090d38 ?paintEvent@QGroupBox@@MEAAXPEAVQPaintEvent@@@Z
+00090d6a ?focusInEvent@QGroupBox@@MEAAXPEAVQFocusEvent@@@Z
+00090d9e ?changeEvent@QGroupBox@@MEAAXPEAVQEvent@@@Z
+00090dcc ?mousePressEvent@QGroupBox@@MEAAXPEAVQMouseEvent@@@Z
+00090e04 ?mouseMoveEvent@QGroupBox@@MEAAXPEAVQMouseEvent@@@Z
+00090e3a ?mouseReleaseEvent@QGroupBox@@MEAAXPEAVQMouseEvent@@@Z
+00090e74 ?initStyleOption@QGroupBox@@MEBAXPEAVQStyleOptionGroupBox@@@Z
+00090eb4 ??0QApplication@@QEAA@AEAHPEAPEADH@Z
+00090edc ??1QApplication@@UEAA@XZ
+00090ef8 ?exec@QApplication@@SAHXZ
+00090f14 ?setStyleSheet@QApplication@@QEAAXAEBVQString@@@Z
+00090f48 ?critical@QMessageBox@@SA?AW4StandardButton@1@PEAVQWidget@@AEBVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z
+00090fc6 ?staticMetaObject@QWidget@@2UQMetaObject@@B
+00090ff4 ?staticMetaObject@QApplication@@2UQMetaObject@@B
+00091028 ?staticMetaObject@QDialog@@2UQMetaObject@@B
+00091054 Qt6Widgets.dll
+00091066 ??0QCursor@@QEAA@W4CursorShape@Qt@@@Z
+0009108e ??1QCursor@@QEAA@XZ
+000910a4 ??0QIcon@@QEAA@AEBVQString@@@Z
+000910c6 ??1QIcon@@QEAA@XZ
+000910da ??0QIcon@@QEAA@XZ
+000910ee ?addFile@QIcon@@QEAAXAEBVQString@@AEBVQSize@@W4Mode@1@W4State@1@@Z
+00091134 ??0QFont@@QEAA@XZ
+00091148 ??1QFont@@QEAA@XZ
+0009115b  ?setFamilies@QFont@@QEAAXAEBV?$QList@VQString@@@@@Z
+00091191 "?setWeight@QFont@@QEAAXW4Weight@1@@Z
+000911ba ??0QMovie@@QEAA@AEBVQString@@AEBVQByteArray@@PEAVQObject@@@Z
+000911fa ??1QMovie@@UEAA@XZ
+00091210 ?setCacheMode@QMovie@@QEAAXW4CacheMode@1@@Z
+0009123d #?start@QMovie@@QEAAXXZ
+00091258 ?metaObject@QMovie@@UEBAPEBUQMetaObject@@XZ
+00091286 ?qt_metacast@QMovie@@UEAAPEAXPEBD@Z
+000912ac ?qt_metacall@QMovie@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+000912e7 #?setWindowIcon@QGuiApplication@@SAXAEBVQIcon@@@Z
+0009131a Qt6Gui.dll
+00091328 ??0QChar@@QEAA@_S@Z
+0009133e ??0QString@@QEAA@AEBV0@@Z
+0009135a ??1QString@@QEAA@XZ
+00091370 ?arg@QString@@QEBA?AV1@IHHVQChar@@@Z
+00091398 ??0QString@@QEAA@PEBD@Z
+000913b2 ?qBadAlloc@@YAXXZ
+000913c6 ?allocate@QArrayData@@SAPEAXPEAPEAU1@_J11W4AllocationOption@1@@Z
+0009140a ?castHelper@QByteArrayView@@CAPEBDPEBD@Z
+00091436 ??0QByteArray@@QEAA@XZ
+00091450 ??1QByteArray@@QEAA@XZ
+0009146a ??4QByteArray@@QEAAAEAV0@$$QEAV0@@Z
+00091490 ??1Connection@QMetaObject@@QEAA@XZ
+000914b6 ??0QChar@@QEAA@D@Z
+000914cc ??0QString@@QEAA@XZ
+000914e2 ??0QString@@QEAA@$$QEAV0@@Z
+00091500 ??4QString@@QEAAAEAV0@$$QEAV0@@Z
+00091524 ?size@QString@@QEBA_JXZ
+0009153e ?isEmpty@QString@@QEBA_NXZ
+0009155c ?arg@QString@@QEBA?AV1@HHHVQChar@@@Z
+00091584 ?arg@QString@@QEBA?AV1@AEBV1@HVQChar@@@Z
+000915b0 ?vasprintf@QString@@SA?AV1@PEBDPEAD@Z
+000915d8 ?append@QString@@QEAAAEAV1@VQChar@@@Z
+00091600 ?append@QString@@QEAAAEAV1@AEBV1@@Z
+00091626 ?toLocal8Bit@QString@@QEGBA?AVQByteArray@@XZ
+00091656 ?fromUtf8@QString@@SA?AV1@VQByteArrayView@@@Z
+00091686 ??YQString@@QEAAAEAV0@PEBD@Z
+000916a6 ?begin@QString@@QEBAPEBVQChar@@XZ
+000916ca ??0QString@@QEAA@$$QEAU?$QArrayDataPointer@_S@@@Z
+000916fe ?connectImpl@QObject@@CA?AVConnection@QMetaObject@@PEBV1@PEAPEAX01PEAVQSlotObjectBase@QtPrivate@@W4ConnectionType@Qt@@PEBHPEBU3@@Z
+00091784 ??1QVariant@@QEAA@XZ
+0009179c ??0QVariant@@QEAA@AEBVQString@@@Z
+000917c0 ?toString@QVariant@@QEBA?AVQString@@XZ
+000917ea ?close@QFileDevice@@UEAAXXZ
+00091808 ??0QFile@@QEAA@XZ
+0009181c ??1QFile@@UEAA@XZ
+00091830 ?setFileName@QFile@@QEAAXAEBVQString@@@Z
+0009185c ?size@QFile@@UEBA_JXZ
+00091874 ??0QElapsedTimer@@QEAA@XZ
+00091890 ?start@QElapsedTimer@@QEAAXXZ
+000918b0 ?elapsed@QElapsedTimer@@QEBA_JXZ
+000918d4 ?applicationDirPath@QCoreApplication@@SA?AVQString@@XZ
+0009190e ??0QFileInfo@@QEAA@AEBVQString@@@Z
+00091934 ??1QFileInfo@@QEAA@XZ
+0009194c ?fileName@QFileInfo@@QEBA?AVQString@@XZ
+00091976 ?absoluteDir@QFileInfo@@QEBA?AVQDir@@XZ
+000919a0 ??1QDir@@QEAA@XZ
+000919b4 ?path@QDir@@QEBA?AVQString@@XZ
+000919d6 ??0QSettings@@QEAA@AEBVQString@@W4Format@0@PEAVQObject@@@Z
+00091a14 ??1QSettings@@UEAA@XZ
+00091a2c ?setValue@QSettings@@QEAAXVQAnyStringView@@AEBVQVariant@@@Z
+00091a6a ?value@QSettings@@QEBA?AVQVariant@@VQAnyStringView@@@Z
+00091aa4 ?event@QObject@@UEAA_NPEAVQEvent@@@Z
+00091acc ?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z
+00091b00 ?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z
+00091b30 ?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z
+00091b60 ?customEvent@QObject@@MEAAXPEAVQEvent@@@Z
+00091b8c ?connectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z
+00091bc0 ?disconnectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z
+00091bf6 ?size@QByteArrayView@@QEBA_JXZ
+00091c18 ?data@QByteArrayView@@QEBAPEBDXZ
+00091c3c ??0QByteArray@@QEAA@PEBD_J@Z
+00091c5c ??0QByteArray@@QEAA@_JD@Z
+00091c78 ??0QByteArray@@QEAA@_JW4Initialization@Qt@@@Z
+00091ca8 ??0QByteArray@@QEAA@AEBV0@@Z
+00091cc8 ??0QByteArray@@QEAA@$$QEAV0@@Z
+00091cea ?isEmpty@QByteArray@@QEBA_NXZ
+00091d0a ?resize@QByteArray@@QEAAX_J@Z
+00091d2a ?reserve@QByteArray@@QEAAX_J@Z
+00091d4c ?data@QByteArray@@QEAAPEADXZ
+00091d6c ?constData@QByteArray@@QEBAPEBDXZ
+00091d90 ?at@QByteArray@@QEBAD_J@Z
+00091dac ??AQByteArray@@QEAAAEAD_J@Z
+00091dca ?left@QByteArray@@QEGBA?AV1@_J@Z
+00091dee ?mid@QByteArray@@QEGBA?AV1@_J0@Z
+00091e12 ?startsWith@QByteArray@@QEBA_NVQByteArrayView@@@Z
+00091e46 ?append@QByteArray@@QEAAAEAV1@D@Z
+00091e6a ?append@QByteArray@@QEAAAEAV1@AEBV1@@Z
+00091e94 ?remove@QByteArray@@QEAAAEAV1@_J0@Z
+00091eba ?fromHex@QByteArray@@SA?AV1@AEBV1@@Z
+00091ee2 ?begin@QByteArray@@QEBAPEBDXZ
+00091f02 ?size@QByteArray@@QEBA_JXZ
+00091f20 ??0QChar@@QEAA@UQLatin1Char@@@Z
+00091f42 ?equalStrings@QtPrivate@@YA_NVQStringView@@0@Z
+00091f74 ??4QString@@QEAAAEAV0@AEBV0@@Z
+00091f96 ?clear@QString@@QEAAXXZ
+00091fb0 ?arg@QString@@QEBA?AV1@KHHVQChar@@@Z
+00091fd8 ?arg@QString@@QEBA?AV1@GHHVQChar@@@Z
+00092000 ?indexOf@QString@@QEBA_JAEBV1@_JW4CaseSensitivity@Qt@@@Z
+0009203c ?mid@QString@@QEGBA?AV1@_J0@Z
+0009205c ?toLower@QString@@QEGBA?AV1@XZ
+0009207e ?trimmed@QString@@QEHAA?AV1@XZ
+000920a0 ?utf16@QString@@QEBAPEBGXZ
+000920be ?fromWCharArray@QString@@SA?AV1@PEB_W_J@Z
+000920ea ?restart@QElapsedTimer@@QEAA_JXZ
+0009210e ?msleep@QThread@@SAXK@Z
+00092128 ??4QByteArray@@QEAAAEAV0@AEBV0@@Z
+0009214c ??0QObject@@QEAA@PEAV0@@Z
+00092168 ??1QObject@@UEAA@XZ
+0009217e ??0QMessageLogger@@QEAA@PEBDH0@Z
+000921a2 ?debug@QMessageLogger@@QEBA?AVQDebug@@XZ
+000921ce ??4QString@@QEAAAEAV0@PEBD@Z
+000921ee ??1QDebug@@QEAA@XZ
+00092204 ??6QDebug@@QEAAAEAV0@PEBD@Z
+00092222 ??6QDebug@@QEAAAEAV0@AEBVQString@@@Z
+0009224a ?lengthHelperCharArray@QByteArrayView@@CA_JPEBD_K@Z
+00092280 ?constData@QByteArrayView@@QEBAPEBDXZ
+000922a8 ?connectSlotsByName@QMetaObject@@SAXPEAVQObject@@@Z
+000922de ?timerId@QTimerEvent@@QEBAHXZ
+000922fe ?constData@QString@@QEBAPEBVQChar@@XZ
+00092326 ?arg@QString@@QEBA?AV1@_JHHVQChar@@@Z
+0009234e ?left@QString@@QEGBA?AV1@_J@Z
+0009236e ?toCaseFolded@QString@@QEGBA?AV1@XZ
+00092394 ?append@QString@@QEAAAEAV1@V?$QBasicUtf8StringView@$0A@@@@Z
+000923d2 ?remove@QString@@QEAAAEAV1@AEBVQRegularExpression@@@Z
+0009240a ?fromLocal8Bit@QString@@SA?AV1@VQByteArrayView@@@Z
+00092440 ?compare@QString@@QEBAHAEBV1@W4CaseSensitivity@Qt@@@Z
+00092478 ?fromStdString@QString@@SA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z
+000924de ?compare_helper@QString@@CAHPEBVQChar@@_JPEBD1W4CaseSensitivity@Qt@@@Z
+00092528 ??0QTextStream@@QEAA@PEAVQIODevice@@@Z
+00092552 ??1QTextStream@@UEAA@XZ
+0009256c ??6QTextStream@@QEAAAEAV0@AEBVQString@@@Z
+00092598 ??6QTextStream@@QEAAAEAV0@PEBD@Z
+000925bc ?getAndRef@ExternalRefCountData@QtSharedPointer@@SAPEAU12@PEBVQObject@@@Z
+00092608 ?objectName@QObject@@QEBA?AVQString@@XZ
+00092632 ?setObjectName@QObject@@QEAAXVQAnyStringView@@@Z
+00092666 ?moveToThread@QObject@@QEAA_NPEAVQThread@@UDisambiguated_t@Qt@@@Z
+000926aa ?killTimer@QObject@@QEAAXH@Z
+000926ca ?installEventFilter@QObject@@QEAAXPEAV1@@Z
+000926f8 ?deleteLater@QObject@@QEAAXXZ
+00092718 ?doSetProperty@QObject@@AEAA_NPEBDPEBVQVariant@@PEAV2@@Z
+00092754 ??0QVariant@@QEAA@VQPoint@@@Z
+00092774 ??0QVariant@@QEAA@PEBD@Z
+00092790 ??0QRegularExpression@@QEAA@AEBVQString@@V?$QFlags@W4PatternOption@QRegularExpression@@@@@Z
+000927ee ??1QRegularExpression@@QEAA@XZ
+00092810 ?readAll@QIODevice@@QEAA?AVQByteArray@@XZ
+0009283c ??0QFile@@QEAA@AEBVQString@@@Z
+0009285e ?open@QFile@@UEAA_NV?$QFlags@W4OpenModeFlag@QIODeviceBase@@@@@Z
+000928a0 ?instance@QCoreApplication@@SAPEAV1@XZ
+000928ca ?translate@QCoreApplication@@SA?AVQString@@PEBD00H@Z
+00092902 ?aboutToQuit@QCoreApplication@@QEAAXUQPrivateSignal@1@@Z
+0009293e ??0QSize@@QEAA@XZ
+00092952 ??0QSize@@QEAA@HH@Z
+00092968 ??0QRect@@QEAA@HHHH@Z
+00092980 ?width@QRect@@QEBAHXZ
+00092998 ?height@QRect@@QEBAHXZ
+000929b2 ??1QDateTime@@QEAA@XZ
+000929ca ?toString@QDateTime@@QEBA?AVQString@@AEBV2@@Z
+000929fa ?currentDateTime@QDateTime@@SA?AV1@XZ
+00092a22 ??0QDir@@QEAA@AEBVQString@@@Z
+00092a42 ?mkpath@QDir@@QEBA_NAEBVQString@@@Z
+00092a68 ?exists@QDir@@QEBA_NXZ
+00092a82 ??0QTimer@@QEAA@PEAVQObject@@@Z
+00092aa4 ??1QTimer@@UEAA@XZ
+00092aba ?setInterval@QTimer@@QEAAXH@Z
+00092ada ?setSingleShot@QTimer@@QEAAX_N@Z
+00092afe ?start@QTimer@@QEAAXH@Z
+00092b18 ?start@QTimer@@QEAAXXZ
+00092b32 ?stop@QTimer@@QEAAXXZ
+00092b4a ?timeout@QTimer@@QEAAXUQPrivateSignal@1@@Z
+00092b78 ?defaultTypeFor@QTimer@@CA?AW4TimerType@Qt@@H@Z
+00092baa ?singleShotImpl@QTimer@@CAXHW4TimerType@Qt@@PEBVQObject@@PEAVQSlotObjectBase@QtPrivate@@@Z
+00092c08 ?start@QAbstractAnimation@@QEAAXW4DeletionPolicy@1@@Z
+00092c40 ??0QEasingCurve@@QEAA@W4Type@0@@Z
+00092c64 ??1QEasingCurve@@QEAA@XZ
+00092c80 ?setStartValue@QVariantAnimation@@QEAAXAEBVQVariant@@@Z
+00092cba ?setEndValue@QVariantAnimation@@QEAAXAEBVQVariant@@@Z
+00092cf2 ?setDuration@QVariantAnimation@@QEAAXH@Z
+00092d1e ?setEasingCurve@QVariantAnimation@@QEAAXAEBVQEasingCurve@@@Z
+00092d5e ??0QPropertyAnimation@@QEAA@PEAVQObject@@AEBVQByteArray@@0@Z
+00092d9e ??1QPropertyAnimation@@UEAA@XZ
+00092dc0 ??0QThread@@QEAA@PEAVQObject@@@Z
+00092de4 ??1QThread@@UEAA@XZ
+00092dfa ?isRunning@QThread@@QEBA_NXZ
+00092e1a ?start@QThread@@QEAAXW4Priority@1@@Z
+00092e42 ?quit@QThread@@QEAAXXZ
+00092e5c ?started@QThread@@QEAAXUQPrivateSignal@1@@Z
+00092e8a ?finished@QThread@@QEAAXUQPrivateSignal@1@@Z
+00092eba ?metaObject@QPropertyAnimation@@UEBAPEBUQMetaObject@@XZ
+00092ef4 ?qt_metacast@QPropertyAnimation@@UEAAPEAXPEBD@Z
+00092f26 ?qt_metacall@QPropertyAnimation@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+00092f6e ?event@QPropertyAnimation@@MEAA_NPEAVQEvent@@@Z
+00092fa0 ?updateCurrentValue@QPropertyAnimation@@MEAAXAEBVQVariant@@@Z
+00092fe0 ?updateState@QPropertyAnimation@@MEAAXW4State@QAbstractAnimation@@0@Z
+00093028 ?duration@QVariantAnimation@@UEBAHXZ
+00093050 ?updateCurrentTime@QVariantAnimation@@MEAAXH@Z
+00093082 ?interpolated@QVariantAnimation@@MEBA?AVQVariant@@AEBV2@0N@Z
+000930c2 ?metaObject@QTimer@@UEBAPEBUQMetaObject@@XZ
+000930f0 ?qt_metacast@QTimer@@UEAAPEAXPEBD@Z
+00093116 ?qt_metacall@QTimer@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+00093152 ?timerEvent@QTimer@@MEAAXPEAVQTimerEvent@@@Z
+00093182 ?metaObject@QThread@@UEBAPEBUQMetaObject@@XZ
+000931b2 ?qt_metacast@QThread@@UEAAPEAXPEBD@Z
+000931da ?qt_metacall@QThread@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+00093216 ?event@QThread@@UEAA_NPEAVQEvent@@@Z
+0009323e ?run@QThread@@MEAAXXZ
+00093256 ?updateDirection@QAbstractAnimation@@MEAAXW4Direction@1@@Z
+00093294 ?staticMetaObject@QCoreApplication@@2UQMetaObject@@B
+000932cc ?staticMetaObject@QTimer@@2UQMetaObject@@B
+000932fa ?staticMetaObject@QThread@@2UQMetaObject@@B
+00093328 ?startTimer@QObject@@QEAAHHW4TimerType@Qt@@@Z
+00093358 ??0QChar@@QEAA@E@Z
+0009336e ?append@QByteArray@@QEAAAEAV1@PEBD_J@Z
+00093398 ?toUInt@QString@@QEBAIPEA_NH@Z
+000933ba ??5QTextStream@@QEAAAEAV0@AEAVQString@@@Z
+000933e6 ?debug@QMessageLogger@@QEBAXPEBDZZ
+0009340c ?toHex@QByteArray@@QEBA?AV1@D@Z
+0009342e ?fromLatin1@QString@@SA?AV1@VQByteArrayView@@@Z
+00093460 ?number@QString@@SA?AV1@IH@Z
+00093480 ?errorString@QIODevice@@QEBA?AVQString@@XZ
+000934ae ?applicationFilePath@QCoreApplication@@SA?AVQString@@XZ
+000934e8 ??0QProcess@@QEAA@PEAVQObject@@@Z
+0009350c ??1QProcess@@UEAA@XZ
+00093524 ?start@QProcess@@QEAAXV?$QFlags@W4OpenModeFlag@QIODeviceBase@@@@@Z
+0009356a ?setProgram@QProcess@@QEAAXAEBVQString@@@Z
+00093598 ?setArguments@QProcess@@QEAAXAEBV?$QList@VQString@@@@@Z
+000935d2 ?setProcessChannelMode@QProcess@@QEAAXW4ProcessChannelMode@1@@Z
+00093614 ?setCreateProcessArgumentsModifier@QProcess@@QEAAXV?$function@$$A6AXPEAUCreateProcessArguments@QProcess@@@Z@std@@@Z
+0009368a ?waitForStarted@QProcess@@QEAA_NH@Z
+000936b0 ?waitForFinished@QProcess@@QEAA_NH@Z
+000936d8 ?exitCode@QProcess@@QEBAHXZ
+000936f6 ?exitStatus@QProcess@@QEBA?AW4ExitStatus@1@XZ
+00093726 ?kill@QProcess@@QEAAXXZ
+00093740 ?qInstallMessageHandler@@YAP6AXW4QtMsgType@@AEBVQMessageLogContext@@AEBVQString@@@ZP6AX012@Z@Z
+000937a2 ?front@QByteArray@@QEBADXZ
+000937c0 ?back@QByteArray@@QEBADXZ
+000937dc ?readAll@QTextStream@@QEAA?AVQString@@XZ
+00093808 ??6QTextStream@@QEAAAEAV0@H@Z
+00093828 ??0QSharedMemory@@QEAA@PEAVQObject@@@Z
+00093852 ??1QSharedMemory@@UEAA@XZ
+0009386e ?setKey@QSharedMemory@@QEAAXAEBVQString@@@Z
+0009389c ?create@QSharedMemory@@QEAA_N_JW4AccessMode@1@@Z
+000938d0 ?attach@QSharedMemory@@QEAA_NW4AccessMode@1@@Z
+00093902 ?detach@QSharedMemory@@QEAA_NXZ
+00093924 ?lock@QBasicMutex@@QEAAXXZ
+00093942 ?unlock@QBasicMutex@@QEAAXXZ
+00093962 ??1QMutex@@QEAA@XZ
+00093978 ?qRegisterResourceData@@YA_NHPEBE00@Z
+000939a0 ?qUnregisterResourceData@@YA_NHPEBE00@Z
+000939ca ?qResourceFeatureZlib@@YAEXZ
+000939ea ?dynamicMetaObject@QObjectData@@QEBAPEAUQMetaObject@@XZ
+00093a24 ??0QMetaType@@QEAA@XZ
+00093a3c ?staticMetaObject@QObject@@2UQMetaObject@@B
+00093a6a ?activate@QMetaObject@@SAXPEAVQObject@@PEBU1@HPEAPEAX@Z
+00093aa4 ?compareStrings@QtPrivate@@YAHVQStringView@@0W4CaseSensitivity@Qt@@@Z
+00093aec ??6@YAAEAVQDataStream@@AEAV0@AEBVQString@@@Z
+00093b1c ??5@YAAEAVQDataStream@@AEAV0@AEAVQString@@@Z
+00093b4c ??5QDataStream@@QEAAAEAV0@AEAH@Z
+00093b70 ??6QDataStream@@QEAAAEAV0@H@Z
+00093b90 ??6QDebug@@QEAAAEAV0@H@Z
+00093bac ??6QDebug@@QEAAAEAV0@I@Z
+00093bc8 ?qt_metacast@QObject@@UEAAPEAXPEBD@Z
+00093bf0 ?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z
+00093c2a Qt6Core.dll
+00093c38 ?_Xlength_error@std@@YAXPEBD@Z
+00093c5a ?uncaught_exception@std@@YA_NXZ
+00093c7c ?good@ios_base@std@@QEBA_NXZ
+00093c9c ?flags@ios_base@std@@QEBAHXZ
+00093cbc ?width@ios_base@std@@QEBA_JXZ
+00093cdc ?width@ios_base@std@@QEAA_J_J@Z
+00093cfe ??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAA@XZ
+00093d3a ??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAA@XZ
+00093d76 ?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAAHD@Z
+00093db8 ?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QEAA_JPEBD_J@Z
+00093e00 ?eback@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+00093e44 ?gptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+00093e86 ?pbase@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+00093eca ?pptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+00093f0c ?egptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+00093f50 ?gbump@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXH@Z
+00093f92 ?setg@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z
+00093fd8 ?epptr@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEBAPEADXZ
+0009401c ?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD0@Z
+00094060 ?setp@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAXPEAD00@Z
+000940a6 ?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IEAAPEADXZ
+000940ea ??1?$basic_ios@DU?$char_traits@D@std@@@std@@UEAA@XZ
+00094120 ?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z
+00094160 ?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ
+000941c6 ?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBAPEAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ
+00094230 ?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADXZ
+0009426a ?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QEBADD@Z
+000942a6 ??0?$basic_ios@DU?$char_traits@D@std@@@std@@IEAA@XZ
+000942dc ??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAA@PEAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z
+00094348 ??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UEAA@XZ
+00094382 ?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAXXZ
+000943c0 ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@P6AAEAV01@AEAV01@@Z@Z
+00094414 ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV01@I@Z
+00094456 ?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@D@Z
+0009449a ?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QEAAAEAV12@XZ
+000944de ?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z
+0009452c ?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+0009456c ?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAPEAV12@PEAD_J@Z
+000945ba ?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z
+00094602 ?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z
+0009464a ?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ
+0009468a ?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JXZ
+000946d0 ?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+00094712 ?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ
+00094752 ?cerr@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+0009478e _Query_perf_counter
+000947a4 _Query_perf_frequency
+000947bc _Thrd_join
+000947ca _Thrd_id
+000947d6 ?_Throw_Cpp_error@std@@YAXH@Z
+000947f6 _Cnd_do_broadcast_at_thread_exit
+0009481a _Mtx_lock
+00094826 _Mtx_unlock
+00094834 _Cnd_wait
+00094840 _Cnd_signal
+0009484e ?_Xinvalid_argument@std@@YAXPEBD@Z
+00094874 ?_Xout_of_range@std@@YAXPEBD@Z
+00094896 ?_Syserror_map@std@@YAPEBDH@Z
+000948b4 MSVCP140.dll
+000948c4 __std_exception_copy
+000948dc __std_exception_destroy
+000948f6 _CxxThrowException
+0009490c __CxxFrameHandler4
+00094922 memcpy
+0009492c memmove
+00094936 __std_terminate
+00094948 _purecall
+00094954 memset
+0009495e memcmp
+00094968 __current_exception
+0009497e __current_exception_context
+0009499c __C_specific_handler
+000949b2 VCRUNTIME140.dll
+000949c4 VCRUNTIME140_1.dll
+000949da _invoke_watson
+000949ec strlen
+000949fe strnlen
+00094a08 terminate
+00094a14 _beginthreadex
+00094a26 _errno
+00094a30 strtol
+00094a3a __acrt_iob_func
+00094a4c __stdio_common_vfprintf
+00094a66 strcmp
+00094a70 _callnewh
+00094a7c malloc
+00094a86 _configure_narrow_argv
+00094aa0 _initialize_narrow_environment
+00094ac2 _initialize_onexit_table
+00094ade _register_onexit_function
+00094afa _crt_atexit
+00094b08 _cexit
+00094b12 _seh_filter_exe
+00094b24 _set_app_type
+00094b34 __setusermatherr
+00094b48 _get_narrow_winmain_command_line
+00094b6c _initterm
+00094b78 _initterm_e
+00094b96 _set_fmode
+00094ba4 _c_exit
+00094bae _register_thread_local_exe_atexit_callback
+00094bdc _configthreadlocale
+00094bf2 _set_new_mode
+00094c02 __p__commode
+00094c10 api-ms-win-crt-runtime-l1-1-0.dll
+00094c32 api-ms-win-crt-heap-l1-1-0.dll
+00094c52 api-ms-win-crt-string-l1-1-0.dll
+00094c74 api-ms-win-crt-convert-l1-1-0.dll
+00094c96 api-ms-win-crt-stdio-l1-1-0.dll
+00094cb6 api-ms-win-crt-math-l1-1-0.dll
+00094cd6 api-ms-win-crt-locale-l1-1-0.dll
+00094cfa ReleaseSRWLockExclusive
+00094d14 AcquireSRWLockExclusive
+00094d2e SleepConditionVariableSRW
+00094d4a GetCurrentThreadId
+00094d60 WakeAllConditionVariable
+00094d7c RtlCaptureContext
+00094d90 RtlLookupFunctionEntry
+00094daa RtlVirtualUnwind
+00094dbe IsDebuggerPresent
+00094dd2 UnhandledExceptionFilter
+00094dee SetUnhandledExceptionFilter
+00094e0c GetStartupInfoW
+00094e1e IsProcessorFeaturePresent
+00094e3a GetModuleHandleW
+00094e4e GetCurrentProcess
+00094e62 TerminateProcess
+00094e76 QueryPerformanceCounter
+00094e90 GetCurrentProcessId
+00094ea6 GetSystemTimeAsFileTime
+00094ec0 InitializeSListHead
+00094ed6 __p___argc
+00094ee4 __p___argv
+00094ef2 GetCommandLineW
+00094f04 WideCharToMultiByte
+00094f1a CommandLineToArgvW
+00094f2e SHELL32.dll
+000954e0 .?AVexception@std@@
+00095508 .?AVbad_array_new_length@std@@
+00095538 .?AVbad_alloc@std@@
+00095560 .?AVRtMidiError@@
+00095588 .?AVQObject@@
+000955a8 .?AVQDialog@@
+000955d0 .?AV<lambda_2>@?1??startUpgrade@HidOtaUpgradeWorker@@QEAAXXZ@
+00095620 .?AV<lambda_1>@?1??startUpgrade@HidOtaUpgradeWorker@@QEAAXXZ@
+00095670 .?AVToast@@
+00095690 .?AVMainView@@
+000956b0 .?AVQThread@@
+000956d0 .?AVruntime_error@std@@
+000956f8 .?AVsystem_error@std@@
+00095720 .?AV_System_error@std@@
+00095750 .?AV<lambda_1>@?1??sendTerminalDataToLDeviceIsolated@CUSBConnect@@QEAA_NW4EFlashType@@PEBEKI@Z@
+000957c0 .?AVQPushButton@@
+000957e8 .?AVQAbstractButton@@
+00095810 .?AVQWidget@@
+00095830 .?AVQPaintDevice@@
+00095858 .?AVQBoxLayout@@
+00095880 .?AVQLayout@@
+000958a0 .?AVQLayoutItem@@
+000958c8 .?AVQVBoxLayout@@
+000958f0 .?AVQLabel@@
+00095910 .?AVQFrame@@
+00095930 .?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+00095990 .?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+000959e0 .?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+00095a40 .?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+00095a88 .?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+00095ac8 .?AVios_base@std@@
+00095af0 .?AV?$_Iosb@H@std@@
+00095b18 .?AVMidiApi@@
+00095b38 .?AVRtMidi@@
+00095b58 .?AVRtMidiIn@@
+00095b78 .?AVRtMidiOut@@
+00095b98 .?AVMidiInApi@@
+00095bb8 .?AVMidiOutApi@@
+00095be0 .?AVMidiInWinMM@@
+00095c08 .?AVMidiOutWinMM@@
+00095c30 .?AVHidOtaUpgradeWorker@@
+00095c60 .?AV?$_Func_base@XW4Stage@JieliHidOta@@@std@@
+00095ca0 .?AV?$_Func_base@XIIH@std@@
+00095cd0 .?AV?$_Func_impl_no_alloc@V<lambda_1>@?1??startUpgrade@HidOtaUpgradeWorker@@QEAAXXZ@XW4Stage@JieliHidOta@@@std@@
+00095d60 .?AV?$_Func_impl_no_alloc@V<lambda_2>@?1??startUpgrade@HidOtaUpgradeWorker@@QEAAXXZ@XIIH@std@@
+00095dd0 .?AVOtaUpgradeWorker@@
+00095df8 .?AV_Ref_count_base@std@@
+00095e28 .?AVQTimer@@
+00095e48 .?AVQMovie@@
+00095e68 .?AVQPropertyAnimation@@
+00095e98 .?AVQVariantAnimation@@
+00095ec0 .?AVQAbstractAnimation@@
+00095ef0 .?AVQGroupBox@@
+00095f10 .?AVMaskWidget@@
+00095f38 .?AVLoadingWidget@@
+00095f60 .?AV?$_Ref_count_obj2@VCUSBConnect@@@std@@
+00095fa0 .?AV?$_Ref_count@VRtMidiIn@@@std@@
+00095fd8 .?AV?$_Ref_count@VRtMidiOut@@@std@@
+00096010 .?AVerror_category@std@@
+00096040 .?AV_Generic_error_category@std@@
+00096078 .?AVCCriticalSection@@
+000960a0 .?AV?$_Func_base@XPEAUCreateProcessArguments@QProcess@@@std@@
+000960f0 .?AV?$_Func_impl_no_alloc@V<lambda_1>@?1??sendTerminalDataToLDeviceIsolated@CUSBConnect@@QEAA_NW4EFlashType@@PEBEKI@Z@XPEAUCreateProcessArguments@QProcess@@@std@@
+000961a8 .?AVCUSBPort@@
+000961c8 .?AVtype_info@@
+00097d20 Wv%~^a
+00098002 jEmu5FGF
+0009818c Z-4Z-BCC
+000982e9 DFF"$4
+00098302 FGG148
+00098328 (/G_oo
+000983fc eHNIAXx8
+0009846e DDD`iF
+00098541 E{@)=L
+00098562 *$$$B.
+00098790 hmiASc#ZZZ
+000987c0 XGLCjZ
+0009885d ddf"!1
+000988f3 ,IKEXX
+000988ff amM5n\
+000989cb (/+Coo
+00098bb7 i3RSS!
+00098bca +W0488
+00098e91 fH$RTWW
+00098f4b 11HNIq
+000993c2 N#))	M
+0009952b MLJBoO
+000995d0 hmi	4'
+00099611 :4Z-B4
+00099655 W^ALl,/
+0009970f 2X(1)	
+0009977b (/CNn.
+00099787 OFf&,f
+00099d35 <8eBk6
+00099eb7 W"X@)E
+00099f5e 7mBzf&o
+0009a113 u+rrs}
+0009a23b jkjPUY1e
+0009a3d9 'N 44T
+0009a4f6 lFIq1X
+0009a937 XDFF"9%Ed`
+0009ad46 FqQJ'6
+0009ad97 4HJ)$R	
+0009af11 mV+oRG
+0009aff1 KJSJ122
+0009b169 Eg b*(
+0009b2c5 ,Z[ZxS
+0009b322 hoosY0d
+0009b353 775bp`@PU
+0009b39e %&'#*2r
+0009b4e2 oijBSS
+0009b52f IIIHIM
+0009b638 ilh@eE
+0009b77e A)ELl,
+0009b805 \G)E[k+
+0009b847 ysy+W"55
+0009b9d1 vaMa!o
+0009babf qr>?Ji
+0009bc7a / eI*o
+0009bdcc EwW7:;:
+0009c066 "4_U}X
+0009c19f FScc@=
+0009c355 uccchnl
+0009c4e7 Mjov<[
+0009c5bd Q464 *:
+0009c767 hokCG{
+0009c7a5 v$$& ,<
+0009c7b1 dHMKCjj*
+0009c80f qqn_VDd$
+0009caa2 lEn~>o
+0009cab6 gQY^>!
+0009cd35 1ddfz$A'
+0009cd62 `En.6l
+0009cf14 H$$&!=#
+0009d2b8 0$$%!==
+0009d2c6 DRr2"##
+0009d2ea 55hnlt
+0009d344 %HNNA|b
+0009d750 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+0009d789 <assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+0009d7d4   <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+0009d80c     <security>
+0009d81c       <requestedPrivileges>
+0009d839         <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+0009d881       </requestedPrivileges>
+0009d89f     </security>
+0009d8b0   </trustInfo>
+0009d8c0   <dependency>
+0009d8d0     <dependentAssembly>
+0009d8e9       <assemblyIdentity type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*' />
+0009d996     </dependentAssembly>
+0009d9b0   </dependency>
+0009d9c1 </assembly>

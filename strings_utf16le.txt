@@ -1,0 +1,84 @@
+00027be8 Message
+00028ae0 RCSP packet format is invalid / RCSP 
+00028b40 RCSP length field is invalid / RCSP 
+00028ba0 RCSP command body is empty / RCSP 
+00028bf0 RCSP response body is incomplete / RCSP 
+00028c50 Windows error %1
+00028c90 HID OTA device not found / 
+00028ccc  HID OTA 
+00028cf0 HID enumeration failed / HID 
+00028d40 Cannot open HID OTA device / 
+00028d82  HID OTA 
+00028da0 Cannot read HID capabilities / 
+00028e00 Invalid HID capabilities / HID 
+00028e50 Unexpected HID report size (in=%1, out=%2) / HID Report 
+00028ed0 HID frame is too large / HID 
+00028f20 Failed to reset HID authentication / 
+00028f90 No HID preparation response / 
+00028ff0 Unexpected HID preparation channel %1 / HID 
+00029080 Failed to send RCSP authentication reset / RCSP 
+00029100 Cannot generate authentication random data / 
+00029170 Failed to send authentication challenge / 
+000291e0 Authentication challenge timed out / 
+00029240 Device authentication ciphertext mismatch / 
+000292c0 Failed to confirm device authentication / 
+00029330 Reverse authentication challenge timed out / 
+000293b0 Invalid reverse authentication challenge / 
+00029420 Failed to answer reverse authentication / 
+00029490 Reverse authentication confirmation timed out / 
+00029510 Device did not confirm reverse authentication / 
+00029590 RCSP 0x%1 send failed / RCSP 
+000295e0 RCSP 0x%1 response timeout / RCSP 
+00029640 RCSP response arrived on HID channel %1 / RCSP 
+000296b0 RCSP 0x%1 response mismatch (opcode=0x%2, sn=%3, status=%4) / RCSP 
+00029750 Internal HID report size error / HID Report 
+000297b8 HID write timed out / HID 
+000297f8 HID write failed / HID 
+00029838 HID read failed / HID 
+000298a0 Authentication algorithm self-test failed / 
+00029920 RCSP codec self-test failed / RCSP 
+00029980 RCSP response self-test failed / RCSP 
+000299e0 Firmware is empty / 
+00029a20 Timed out waiting for HID OTA device %1:%2 / 
+00029a7e  HID OTA 
+00029aa0 E1 firmware information length is invalid / E1 
+00029b10 Firmware identity range is out of bounds (0x%1 + 0x%2, size=0x%3) / 
+00029bb0 Device rejected this firmware / 
+00029c20 HID disconnected before firmware transfer completed / 
+00029cb0 Device requested data out of bounds (sn=%1, 0x%2 + 0x%3, firmware=0x%4) / 
+00029d60 Device requested an oversized E5 block (sn=%1, length=%2) / E5 
+00029df0 Device did not reboot after firmware transfer / 
+00029ed0 HID OTA ended without a device reboot / HID OTA 
+0002f690 --midi-terminal-ack
+000823e5 CResources
+00082409 SIcons
+00082425 'Smk25.png
+0008243d GSmcMixer.png
+0008245b VOTA.gif
+00082471 Smk25II.png
+0008248b GSmk25Mini.png
+000824ab gcaret-left.png
+000824cd 'radio.svg
+000824e7 mic.png
+000824fb arrow-down-white.svg
+00082529 arrow-up-white.svg
+00082551 gsuccess.png
+0008256f arrow-up.svg
+0008258b 'triangle-right.svg
+000825b5 gcross-white.svg
+000825db triangle-down.svg
+00082603 hint.png
+00082619 AppIcon.png
+00082635 arrow-down.svg
+00082657 progress-pattern.svg
+00082683 Gcircle.png
+0008269d gerror.png
+000826b7 check.svg
+000826cf triangle-down-white.svg
+00082703 uncheck.svg
+0008271f sort-down.png
+0008273f cross.svg
+00082755 'unradio.svg
+00082773 triangle-right-white.svg
+000827a9 caret-right.png
+000827cd main.qss

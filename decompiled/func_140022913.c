@@ -1,0 +1,16 @@
+// showmanyc @ 140022913
+
+__int64 __thiscall
+std::basic_streambuf<char,std::char_traits<char>_>::showmanyc
+          (basic_streambuf<char,std::char_traits<char>_> *this)
+
+{
+  __int64 _Var1;
+  
+                    /* WARNING: Could not recover jumptable at 0x000140022913. Too many branches */
+                    /* WARNING: Treating indirect jump as call */
+  _Var1 = showmanyc(this);
+  return _Var1;
+}
+
+
